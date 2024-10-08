@@ -1,0 +1,1872 @@
+School of Engineering and
+Technology
+Programme Handbook
+April 2024
+BSc (Hons) in Computer ScienceContents
+1. Introduction......................................................................................................... 1
+2. Academic Calendar for 2024 ............................................................................ 2
+3. Programme Management .................................................................................. 4
+3.1 Head of Department ................................................................................. 4
+3.2 Programme Leader ................................................................................... 4
+3.3 Academic & Administrative Staff ............................................................ 5
+4. The Programme .................................................................................................. 7
+4.1 Programme Aims and Objectives ........................................................... 8
+4.2 Programme Learning Outcomes ............................................................. 9
+4.3 Programme Structure ............................................................................... 9
+4.4 Curriculum Content .................................................................................... 16
+4.4.1 CSC1024 – Programming Principles ................................ 16
+4.4.2 MTH1114 – Computer Mathematics ................................ 16
+4.4.3 ENG1044 – English for Computer Technology Studies
+....................................................................................................... 16
+4.4.4 SEG1201 – Database Fundamentals ............................... 17
+4.4.5 PRG1203 – Object Oriented Programming
+Fundamentals .......................................................................... 17
+4.4.6 CSC1202 – Computer Organisation ................................. 17
+4.4.7 NET1014 – Networking Principles ................................... 18
+4.4.8 WEB1201 – Web Fundamentals ........................................ 18
+4.4.9 OSS1014/CSC2104 – Operating System
+Fundamentals .......................................................................... 18
+4.4.10 MPU 3112 – Penghayatan Etika dan Peradaban ........ 18
+4.4.11 MPU 3142 - Malay Language for Communication 2 . 19
+4.4.12 MPU 3122 – Falsafah dan Isu Semasa ........................... 19
+4.4.13 MPU 3132 - Appreciation of Ethics and Civilisation .. 20
+4.4.14 MPU 3212 – Critical Thinking ............................................. 20
+4.4.15 MPU 3232 – Bahasa Kebangsaa A .................................... 21
+4.4.16 CSC3024 – Human Computer Interaction ..................... 21
+4.4.17 CSC2103 – Data Structures & Algorithms ..................... 21
+4.4.18 PRG2104 – Object Oriented Programming ................... 224.4.19 ENG2044 - Communication Skills ..................................... 22
+4.4.20 ENT2012 – Entrepreneurial Mindset & Skills ............... 22
+4.4.21 MPU3422 – Community Service for Planetary Health
+....................................................................................................... 23
+4.4.22 MPU3332 – Integrity and Anti-Corruption (KIAR) .... 23
+4.4.23 NET2201 – Computer Networks ....................................... 23
+4.4.24 SEG2202 – Software Engineering .................................... 24
+4.4.25 CSC2014 – Digital Image Processing .............................. 24
+4.4.26 NET2102 – Data Communications.................................... 24
+4.4.27 SEG2102 – Database Management Systems ................ 25
+4.4.28 PRG2205 – Programming Languages ............................. 25
+4.4.29 BIS2102 - Information Systems Analysis & Design .. 26
+4.4.30 CSC2074 – Mobile Application Development ............... 26
+4.4.31 CSC2044 – Concurrent Programming ............................. 26
+4.4.32 PRG2214 – Functional Programming Principles ......... 27
+4.4.33 BIS2216 – Data Mining and Knowledge Discovery
+Fundamentals .......................................................................... 27
+4.4.34 SWA2124 – Social and Web Analytics ........................... 27
+4.4.35 CSC3206 – Artificial Intelligence .................................... 28
+4.4.36 NET3204 – Distributed Systems ....................................... 28
+4.4.37 PRJ3213 – Capstone Project 1 .......................................... 28
+4.4.38 PRJ3223 – Capstone Project 2 ......................................... 29
+4.4.39 SEG3203 – Internship ........................................................... 29
+4.4.40 CSC3064 – Database Engineering .................................... 29
+4.4.41 CSC3209 – Software Architecture and Design Patterns
+....................................................................................................... 30
+4.4.42 CSC3014 – Computer Vision ............................................... 30
+4.4.43 CSC3034 – Computational Intelligence ......................... 30
+4.4.44 CSC3044 – Computer Security .......................................... 31
+4.4.45 CSC3074 – Cloud Computing ............................................. 31
+4.4.46 PRG3014 – UI/UX Design and Development .............. 31
+4.4.47 MKT2224 – Principles of Marketing ................................. 32
+4.4.48 ENT2114 - Principles of Entrepreneurship .................... 324.4.49 DECN2014 – Digital Economy ............................................ 32
+4.4.50 ETP2014 – Startup Foundry................................................ 33
+5. Assessment ....................................................................................................... 33
+5.1 Submission of Assignments ................................................................... 33
+5.2 Extensions and Penalties for Late Submissions ................................. 33
+5.3 Grading Scheme ...................................................................................... 34
+5.4 Additional requirement to pass a subject ........................................... 35
+6. Publication of Coursework Marks and Examination Results ...................... 35
+6.1 Publication of Results ............................................................................. 35
+6.2 Return of marked assignments ............................................................. 36
+7. Progression ........................................................................................................ 36
+7.1 Progression .............................................................................................. 36
+7.2 Reassesment ........................................................................................... 37
+7.3 Condonement .......................................................................................... 38
+7.3 Mandatory Exit ........................................................................................ 39
+8. Programme Award and Results ...................................................................... 39
+8.1 Honours Degree Award Classification .................................................. 39
+8.2 Calculation Grade Point Average .......................................................... 40
+8.4 Academic Standing ................................................................................. 40
+9. Graduation ......................................................................................................... 41
+10. Others ................................................................................................................ 41
+Appendix
+Appendix A : Floor plan for School of Engineering and Technology
+Appendix B : Turnitin
+Appendix C : Terms of References for School Board of Studies, Programme
+Committee and Student Staff Committee
+Appendix D : Organisational Chart
+Appendix E : Pre-requisite List1. Introduction
+This handbook is intended to provide advice and assistance to students and
+academics about the BSc (Hons) Computer Science. It serves as a handy
+reference for practical information about the organisation of the programme,
+assessment and award. Students are recommended to keep and refer to the
+handbook throughout the duration of their study.
+For further details, students are advised to also read the Academic
+Regulations, the Sunway University Student Code of Conduct and the Student
+Handbook. The latest version of these handbooks can be downloaded from the
+Student Portal (https://iZone.sunway.edu.my/) within or outside University
+campus. For any omission or contradiction between this handbook and the
+current version of the Academic Regulations, the latter will prevail.
+The programmes offered by the School of Engineering and Technology are
+reviewed periodically to ensure that they are meeting the standards required,
+professionally and otherwise. Therefore, the University reserves the right to
+vary programmes and their availability.
+It is hoped that the information contained in this handbook will be of use to
+students, staff and sponsors. We welcome your comments and ideas for
+improvement. Please e-mail your feedback to Ms Cheong Pooi Fong at
+pooifongc@sunway.edu.my
+Prof. Ir Denny Ng Kok Sum
+Dean, School of Engineering and Technology
+* Information in the handbook is correct at the time of publication. All information is
+subject to change.
+12. Academic Calendar for 2024
+2Public Holidays in 2024
+Date, Day Occasion
+1 January, Monday New Year’s Day
+25 January, Thursday Thaipusam Day
+10 & 11 February, Saturday & Sunday Chinese New Year
+12 February, Monday Chinese New Year (replacement leave)
+28 March, Thursday Nuzul Al-Quran
+10 & 11 April, Wednesday & Thursday Hari Raya Aidilfitri
+1 May, Wednesday Labour Day
+22 May, Wednesday Wesak Day
+3 June, Monday Yang di-Pertuan Agong's Birthday
+17 June, Monday Hari Raya Haji
+7 July, Sunday Awal Muharram
+8 July, Monday Awal Muharram (replacement leave)
+31 August, Saturday Malaysia’s National Day (Merdeka Day)
+16 September, Monday Prophet Muhammad’s Birthday
+16 September, Monday Malaysia Day
+17 September, Tuesday Malaysia Day (replacement leave)
+31 October, Thursday Deepavali
+11 December, Wednesday Sultan of Selangor’s Birthday
+25 December, Wednesday Christmas Day
+33. Programme Management
+The Dean of School is the main academic officer responsible for a programme.
+In the School of Engineering and Technology, the present Dean is Prof. Ir Denny
+Ng Kok Sum. The Dean is assisted by the Heads of Department and Programme
+Leaders/Coordinators.
+3.1 Head of Department
+The Head of Department is: Dr Saad Aslam
+Room no. AE-327 (Level 3, Sunway University), Ext. 7143
+E-mail: saada@sunway.edu.my
+3.2 Programme Leader
+The Programme Leader is: Dr Chin Teck Min
+Room no. AE-309 (Level 3, Sunway University), Ext. 7141
+E-mail: teckminc@sunway.edu.my
+You may approach the Programme Leader regarding matters concerning:
+• Withdrawal from Programme
+• Transfer Programme
+Programme Coordinator
+The Programme Coordinator is: Cheong Pooi Fong
+Room no. SET Admin Office (Level 3, Sunway University), Ext. 7327
+E-mail: pooifongc@sunway.edu.my
+You may approach the Programme Coordinator regarding matters
+concerning:
+• Counselling
+• Subject Registration
+• Add or Drop Subject
+• Fees Structure
+• Subject Exemption
+• Credit Transfer
+4• Completion of Programme
+• Defer Studies
+• Progress Report
+• Leave of Absence
+3.3 Academic & Administrative Staff
+Academic Staff
+Name (& Designation) Phone E-mail (@sunway.edu.my) Location/
+ext. Room no.
+Prof. Ir Denny Ng Kok Sum 7131 dennyng@sunway.edu.my SET Admin
+(Dean) Office
+Prof. Lau Sian Lun 7155 sianlunl@sunway.edu.my
+SET Admin
+Associate Dean-
+Office
+(International & Industry)
+Prof. Angela Lee Siew 7156 angelal@sunway.edu.my AE-317
+Hoong (Associate Dean-
+Employment &
+Engagement)
+Prof. Ts. Lee Chien Sing 7149 chiensingl@sunway.edu.my AE-324
+(Professor)
+Prof. Angela Amphawan 7132 angelaa@sunway.edu.my AE-318
+(Professor)
+Prof. Dr Chua Hui Na 7138 huinac@sunway.edu.my AE-306
+(Professor)
+Assoc. Prof. Ir Abdul Aziz 7140 abdulazizo@sunway.edu.my AE-308
+Omar (Associate Professor)
+Assoc. Prof. Ts. Dr Lee Yun 7148 yunlil@sunway.edu.my AE-325
+Li (Associate Professor)
+Assoc. Prof. Ts. Dr Aslina 7150 aslinab@sunway.edu.my AE-323
+Baharum (Associate
+Professor)
+Dr Melody Tan Shi Ai 7133 melodyt@sunway.edu.my AE-301
+(Senior Teaching Fellow)
+Dr Aaliya Sarfaraz 7133 aaliyas@sunway.edu.my AE-301
+(Lecturer)
+5Assoc. Prof. Dr Low Yeh 7135 yehchingl@sunway.edu.my AE-303
+Ching Associate Dean –
+(Education)
+Dr Ling Mee Hong (Senior 7135 mhling@sunway.edu.my AE-303
+Lecturer)
+Dr Chia Wai Chong (Senior 7137 waichongc@sunway.edu.my AE-305
+Lecturer)
+Muthukumaran 7137 muthuma@sunway.edu.my AE-305
+Maruthappa (Senior
+Lecturer)
+Ts. Dr Ngu War Hlaing 7144 warhlaingn@sunway.edu.my AE-328
+(Lecturer)
+Dr Richard Wong Teck Ken 7144 richardwtk@sunway.edu.my AE-327
+(HoD - DEN)
+Dr Mehran Behjati 7157 mehranb@sunway.edu.my AE-311
+(Lecturer)
+Dr Sathishkumar 7142 sathishv@sunway.edu.my AE-313
+Veerappampalayam
+Easwaramoorthy
+(Lecturer)
+Dr Farrukh Hassan 7142 farrukhh@sunway.edu.my AE-313
+(Lecturer)
+Dr Samuel Mofoluwa 7502 samuelma@sunway.edu.my AE-315
+Ajibade (Senior Lecturer)
+Assoc. Prof. Dr Anwar P.P. 7502 anwarm@sunway.edu.my AE-315
+Abdul Majeed (Associate
+Professor)
+Dr Muhammed Basheer 7187 basheerj@sunway.edu.my AE-329
+Jasser (Senior Lecturer)
+Dr Ahmad Sahban 7187 ahmadsahban@sunway.edu.my AE-329
+Rafsanjani (Lecturer)
+Charis Kwan Shwu Chen 7134 charisk@sunway.edu.my AE-302
+(Lecturer)
+Lim Woan Ning (Senior 7136 woanningl@sunway.edu.my AE-304
+Teaching Fellow)
+Dr Chin Teck Min (Senior 7141 teckminc@sunway.edu.my AE-309
+Teaching Fellow)
+Ts. Yeap Boon Han 7141 boonhany@sunway.edu.my AE-309
+(Teaching Fellow)
+6Nurul Aiman Abdul Rahim - nurulaiman@sunway.edu.my SU Staff
+(Lecturer) room – L3
+Dr Noor Hafizah Hassan - nhafizahh@unway.edu.my SU Staff
+(Senior Lecturer) room – L3
+Dr Matthew Yeow Yit - matthewyyh@sunway.edu.my SU Staff
+Hang (Lecturer) room – L3
+Maisarah Mansor - maisarahma@sunway.edu.my SU Staff
+(Lecturer) room – L3
+Dr Ganesh Kumar - ganeshk@sunway.edu.my SU Staff
+(Lecturer) room – L3
+Administrative Staff
+Name (& Designation) Phone E-mail (@sunway.edu.my)
+ext.
+Teo Wei Nie (Senior School 7186 weiniet@sunway.edu.my
+Manager)
+Sandra Poon (Assistant Manager) 7130 sandrap@sunway.edu.my
+Catherine Chan Poh Looi (Assistant 7121 catherinec@sunway.edu.my
+Manager)
+Christine Chong Ai Ping (Senior 7502 aipingc@sunway.edu.my
+Executive –Administration)
+You can approach the staff below from the Administrative Office with
+regards to the following matters:
+Issue Staff to Consult Form to fill
+Absent from exam due to Christine Chong Ai Ping Application for
+medical reason Special Examination
+Certificate collection Mr. Alykusno Certificate and
+(Registry Office) Transcript Request
+Form
+Class timetable Thirumeni Sinnappoo
+Teaching and Learning
+Thirumeni Sinnappoo
+Resources
+4. The Programme
+The BSc (Hons) in Computer Science is a programme accredited by the
+Malaysian Qualifications Agency (MQA) and validated by Lancaster University,
+7UK. It is a 3-year degree programme with a requirement of 120 credits for the
+award.
+4.1 Programme Aims and Objectives
+The programme aims to train and equip students with the necessary
+knowledge, principles, and skills in developing new technological and
+innovative solutions, particularly in the field of Computer Science. They will be
+trained to possess theoretical computing knowledge in analysing, modelling,
+designing, developing, and evaluating computing solutions. Students have the
+option to extend their area of studies through electives in specialised areas
+such as programming or embedded system.
+The BSc (Hons) in Computer Science is a general degree that provides students
+with theoretical and algorithmic foundations to develop cutting edge
+computing solutions and/or software. The programme also enables students
+to continue postgraduate study, take up research positions, or expand into
+cross-disciplinary innovation. While many IT disciplines may produce
+graduates with job-related skills for immediate employment, this degree
+offers a comprehensive foundation that permits graduates to understand and
+adapt to new technologies and create new ideas for future growth of ICT
+industries.
+The objectives of the programme are:
+1. Knowledgeable and technically competent in dealing with issues
+and challenges in the field of Computer Science.
+2. Demonstrate good interpersonal and leadership skills and effective
+in communication while working in a team of people within an
+organization/ community.
+3. Solve advanced issues in the field of Computer Science using
+related technology and numerical tools in an ethical and
+professional manners.
+4. Demonstrate self-advancement and entrepreneurial skills in
+Computer Science field.
+Overall, the programme is designed to reflect industry expectations and
+educational progression. It provides and exposes students to the
+fundamental theories as core subjects, while introducing current
+industry led subject for familiarization and exploration. The programme
+also introduces skill-based training to better prepare students for work
+environment and to bridge the gap between input by academics and the
+output expected by ICT industries especially on areas pertaining to soft
+skills such as communication skills, social and ethical responsibilities,
+lifelong learning as well as entrepreneurial skills. These subjects are
+incorporated into the degree to enhance students’ overall study
+experience.
+84.2 Programme Learning Outcomes
+Upon successful completion of the programme, students are expected to
+be able to:
+1. Demonstrate knowledge of essential facts, concepts, principles,
+impacts and theories related to Computer Science.
+2. Demonstrate critical thinking in solving issues related to Computer
+Science.
+3. Apply relevant theories, tools and techniques used by industry to
+solve Computer Science problems.
+4. Perform as a good team player with the sense of responsibilities
+and accountabilities.
+5. Communicate effectively with peers, clients, superiors and society.
+6. Use digital media and various digital solutions to support academic,
+and/or career development.
+7. Use quantitative and visual data to support academic, and/or
+career development.
+8. Demonstrate effective leadership, autonomy and manage
+responsibility in a team with accountabilities.
+9. Engage in self-directed lifelong learning in academic, and/or career
+development.
+10. Demonstrate entrepreneurial competency when providing
+solutions relating to Computer Science.
+11. Demonstrate professionalism, and ethical consideration in
+accordance with ethical and legal principles.
+4.3 Programme Structure
+Compulsory General Studies Subjects
+All students are required to take and pass MPU (Mata Pelajaran Umum)
+general studies subjects as part of the graduating requirements. The MPU
+general studies subjects are divided into the following categories:
+U1: Appreciation of philosophy, values and history
+U2: Mastery of skills
+U3: Broadening of knowledge about Malaysia
+U4: Inculcation of community/societal management skills which are
+practical in nature such as community service and co-curriculum
+Local students who have not obtained credit in Bahasa Melayu SPM or did
+not sit for SPM are also required to take and pass Bahasa Kebangsaan A.
+9Specific Requirements
+Students joining BSc (Hons) in Computer Science are required to have a
+credit in Additional Mathematics at SPM level or its equivalent based on
+the MQA’s requirement.
+Hence, candidates without a credit in Additional Mathematics subject at
+SPM level are required to enrol and Pass a Mathematics Enhancement
+subject MAT1013 Micro-credential in Computer Mathematics
+Fundamentals offered by the programme.
+Note: Above requirements can be excluded if the
+Foundation/Matriculation programmes offered a Mathematics subject
+and the achievements are equivalent/higher than a requirement of a
+credit in Additional Mathematics at SPM level.
+Students are required to pay additional fees for the subject.
+Students must pass MAT1013 Micro-credential in Computer Mathematics
+Fundamentals before enrolling to MTH1114 Computer Mathematics.
+Students are required to enrol to Micro-credential in Computer
+Mathematics Fundamentals as planned by the Programme Leader and are
+required to pass this subject in Year 1 of study.
+List of subjects to be completed in this programme (Normal Entry).
+Important Notes:
+Please refer to Appendix E for pre-requisite information.
+Student may view video trailers of Elective Subjects available in
+department eLearn to guide students in choosing Elective Subjects
+YEAR 1
+Subject Code Subject Name Credit Value
+NET1014 Networking Principles 4
+CSC1024 Programming Principles 4
+MTH1114 Computer Mathematics 4
+ENG1044 English for Computer Technology Studies 4
+SEG1201 Database Fundamentals 4
+PRG1203 Object Oriented Programming Fundamentals 4
+OSS1014 Operating Systems Fundamentals 4
+CSC1202 Computer Organisation 4
+WEB1201 Web Fundamentals 4
+MPU 3112 Penghayatan Etika dan Peradaban 2
+MPU 3142 Malay Language for Communication 2 2
+MPU 3122 Falsafah dan Isu Semasa 2
+10MPU 3132 Appreciation of Ethics and Civilisation 2
+YEAR 2
+Subject Code Subject Name Credit Value
+CSC2103 Data Structure & Algorithms 4
+PRG2104 Object Oriented Programming 4
+ENG2044 Communication Skills 4
+SEG2202 Software Engineering 4
+ENT2012 Entrepreneurial Mindset and Skills 2
+MPU 3332 Integrity and Anti-Corruption (KIAR) 2
+MPU 3212 Critical Thinking 2
+MPU 3232 Bahasa Kebangsaan A 2
+Year 2 Discipline Electives: Choose any 3
+NET2102 Data Communications 4
+SEG2102 Database Management Systems 4
+CSC2014 Digital Image Processing 4
+CSC2044 Concurrent Programming 4
+PRG2214 Functional Programming Principles 4
+Data Mining and Knowledge Discovery
+BIS2216 4
+Fundamentals
+BIS2102 Information System Analysis & Design 4
+CSC2074 Mobile Application Development 4
+SWA2124 Social and Web Analytics 4
+PRG2205 Programming Languages 4
+NET2201 Computer Networks 4
+Free Electives: Choose 3
+* Free Elective 1 4
+* Free Elective 2 4
+* Free Elective 3 4
+Note: These are just some of the free electives. More subjects to be included. The details of Free
+Elective subjects offered will be communicated to students before the semester offering.
+• BIO3024 Current Topics in Biomedical Science
+• ECN1034 Economics for Business
+• FIN1034 Introduction to Business Finance
+• BST1014 Business Statistics
+• ENT1014 Principles of Entrepreneurship
+• MKT1014 Principles of Marketing
+• ACC1024 Accounting for Decision Making
+• TOU1054 Business of Tourism and Hospitality
+• ENVS1014 Introduction to Environmental Studies
+• STAT2014 Introduction to Statistics with SPSS Lab
+• DECN2014 Digital Economy
+• PHYS 1014 College Physics I
+• ETP2014 Startup Foundry
+11YEAR 3
+Subject Code Subject Name Credit Value
+MPU 3422 Community Service for Planetary Health 2
+CSC3024 Human Computer Interaction 4
+CSC3206 Artificial Intelligence 4
+NET3204 Distributed Systems 4
+PRJ3213 Capstone Project 1 3
+PRJ3223 Capstone Project 2 3
+SEG3203 Internship 6
+Year 3 Discipline Electives: Choose any 2
+CSC3064 Database Engineering 4
+CSC3209 Software Architecture and Design Patterns 4
+CSC3014 Computer Vision 4
+CSC3034 Computational Intelligence 4
+CSC3044 Computer Security 4
+CSC3074 Cloud Computing 4
+PRG3014 UI/UX Design and Development 4
+12Programme structure for the respective intakes are as follows:
+(Normal Entry)
+2024 2025 2026 2027
+January January
+January
+Semester April September April September (Short April September (Short
+(Short semester)
+semester) semester)
+Sem 1 Sem 2 Sem 3 Sem 4 Sem 5 Sem 6 Sem 7 Sem 8 Sem 9
+April 2024 ENG1044 English
+SEG1201 Database MPU 3122 / MPU CSC2103 Data Free Elective ENT2012 CSC3206 Discipline SEG3203
+Intake for Computer
+Fundamentals (4) 3132 Falsafah dan Structure & (4) Entrepreneurial Artificial Elective 5 (Year Internship (6)
+Technology Studies
+Isu Semasa / Algorithms (4) Mindset and Intelligence (4) 3) (4)
+(4)
+Appreciation of Skills (2)
+Ethics and
+Civilisation (U1) (2)
+CSC1202 Computer PRG1203 Object- MPU 3112 / MPU Discipline Elective Free Elective SEG2202 Discipline NET3204
+Organisation (4) Oriented 3142 Penghayatan 1 (Year 2) (4) (4) Software Elective 3 (Year Distributed
+Programming Etika dan Engineering (4) 2) (4) Systems (4)
+Fundamentals (4) Peradaban / Malay
+Language for
+Communication 2
+(U1) (2)
+CSC1024 WEB1201 Web NET 1014 PRG 2104 Object- Free Elective MPU 3212 Discipline CSC3024
+Programming Fundamentals (4) Networking Oriented (4) Critical Thinking / Elective 4 (Year Human
+Principles (4) Principles (4) Programming (4) MPU 3232 3) (4) Computer
+Bahasa Interaction (4)
+Kebangsaan A (2)
+MTH1114 OSS1014 Operating ENG2044 Discipline PRJ3213 PRJ3223
+Computer System Fundamentals Communication Elective 2 (Year Capstone Project Capstone
+Mathematics (4) (4) Skills (4) 2) (4) 1 (3) Project 2 (3)
+MPU3332 Integrity MPU3422
+and Anti- Community
+Corruption (KIAR) Service for
+(2) Planetary Health
+(2)
+❖ Information is correct at the time of printing.
+❖ This serves as a guide only. Not all subjects will be offered every semester and subject to availability. Student should take ownership to plan and decide the subjects to be taken every semester.
+However, they can seek advice from the Programme Coordinator.
+❖ Local students who did not sit for SPM or did not obtain a Credit in SPM Bahasa Melayu, are required to take Bahasa Kebangsaan A.
+❖ Malaysian & International students are required to pass MPU general studies subjects.
+❖ For Local students: Penghayatan Etika dan Peradaban, Falsafah dan Isu Semasa.
+❖ For International students: Malay Language for Communication 2, Appreciation of Ethics and Civilisation.
+13(Direct Entry)
+2024 2025 2026
+Semester April September January April September January
+(Short Semester) (Short Semester)
+Sem 4 Sem 5 Sem 6 Sem 7 Sem 8 Sem 9
+April 2024 CSC2103 Data Structure &
+Free Elective (4) ENT2012 Entrepreneurial CSC3206 Artificial Discipline Elective 5 SEG3203 Internship (6)
+Intake Algorithms (4)
+Mindset and Skills (2) Intelligence (4) (Year 3) (4)
+(Direct Entry)
+Discipline Elective 1 (Year Free Elective (4) MPU 3212 Critical Discipline Elective 3 NET3204 Distributed
+2) (4) Thinking / MPU 3232 (Year 2) (4) Systems (4)
+Bahasa Kebangsaan A (2)
+PRG 2104 Object-Oriented Free Elective (4) SEG2202 Software Discipline Elective 4 PRJ3223 Capstone
+Programming (4) Engineering (4) (Year 3) (4) Project 2 (3)
+ENG2044 Communication Discipline Elective 2 PRJ3213 Capstone CSC3024 Human
+Skills (4) (Year 2) (4) Project 1 (3) Computer Interaction
+(4)
+MPU 3122 / MPU 3132 MPU 3112 / MPU 3142 MPU 3332 Integrity MPU 3422
+Falsafah dan Isu Semasa / Penghayatan Etika dan and Anti-Corruption Community Service
+Appreciation of Ethics and Peradaban / Malay (KIAR) (2) for Planetary Health
+Civilisation (U1) (2) Language for (2)
+Communication 2 (U1)
+(2)
+❖ Information is correct at the time of printing.
+❖ This serves as a guide only. Not all subjects will be offered every semester and subject to availability. Student should take ownership to plan and decide the subjects to be taken every semester.
+However, they can seek advice from the Programme Coordinator.
+❖ Local students who did not sit for SPM or did not obtain a Credit in SPM Bahasa Melayu, are required to take Bahasa Kebangsaan A.
+❖ Malaysian & International students are required to pass MPU general studies subjects.
+❖ For Local students: Penghayatan Etika dan Peradaban, Falsafah dan Isu Semasa.
+❖ For International students: Malay Language for Communication 2, Appreciation of Ethics and Civilisation.
+14(Special Subject Line-up) For students who did not meet the entry requirement for SPM Additional Mathematics or equivalent.
+2024 2025 2026 2027
+January January
+January
+Semester April September April September (Short April September (Short
+(Short semester)
+semester) semester)
+Sem 1 Sem 2 Sem 3 Sem 4 Sem 5 Sem 6 Sem 7 Sem 8 Sem 9
+April 2024 ENG1044 English
+SEG1201 Database MPU 3122 / MPU CSC2103 Data Free Elective ENT2012 CSC3206 Discipline SEG3203
+Intake for Computer
+Fundamentals (4) 3132 Falsafah dan Structure & (4) Entrepreneurial Artificial Elective 5 (Year Internship (6)
+Technology Studies
+Isu Semasa / Algorithms (4) Mindset and Intelligence (4) 3) (4)
+(4)
+Appreciation of Skills (2)
+Ethics and
+Civilisation (U1) (2)
+CSC1202 Computer PRG1203 Object- MPU 3112 / MPU Discipline Elective Free Elective MPU 3212 Discipline NET3204
+Organisation (4) Oriented 3142 Penghayatan 1 (Year 2) (4) (4) Critical Thinking / Elective 3 (Year Distributed
+Programming Etika dan MPU 3232 2) (4) Systems (4)
+Fundamentals (4) Peradaban / Malay Bahasa
+Language for Kebangsaan A (2)
+Communication 2
+(U1) (2)
+CSC1024 OSS1014 Operating NET 1014 PRG 2104 Object- Free Elective SEG2202 Discipline CSC3024
+Programming System Fundamentals Networking Oriented (4) Software Elective 4 (Year Human
+Principles (4) (4) Principles (4) Programming (4) Engineering (4) 3) (4) Computer
+Interaction (4)
+WEB1201 Web MTH1114 Computer ENG2044 Discipline PRJ3213 PRJ3223
+Fundamentals (4) Mathematics (4) Communication Elective 2 (Year Capstone Project Capstone
+Skills (4) 2) (4) 1 (3) Project 2 (3)
+MAT1013 Micro- MPU 3332 MPU 3422
+credential in Integrity and Anti- Community
+Computer Corruption (KIAR) Service for
+Mathematics (2) Planetary Health
+Fundamentals (3) (2)
+❖ Information is correct at the time of printing.
+❖ This serves as a guide only. Not all subjects will be offered every semester and subject to availability. Student should take ownership to plan and decide the subjects to be taken every semester.
+However, they can seek advice from the Programme Coordinator.
+❖ Local students who did not sit for SPM or did not obtain a Credit in SPM Bahasa Melayu, are required to take Bahasa Kebangsaan A.
+❖ Malaysian & International students are required to pass MPU general studies subjects.
+❖ For Local students: Penghayatan Etika dan Peradaban, Falsafah dan Isu Semasa.
+❖ For International students: Malay Language for Communication 2, Appreciation of Ethics and Civilisation.
+154.4 Curriculum Content
+4.4.1 CSC1024 – Programming Principles
+Credit value: 4
+Learning Upon completion of this subject, students should be able to
+outcomes:
+• Explain the basic programming concepts according to a specific
+programming language terminology.
+• Design a computational solution that complies with the coding standards of
+a specific programming language.
+• Implement a computational solution using the decision statement, control
+structures, and user-defined functions with a specific programming
+language.
+Synopsis: This course aims to provide students with the understanding of the fundamentals
+principles of programming. Students will learn and practice the basic
+components of programming including variables, constants, expressions, control
+structures, functions, pointers and arrays. Students will also learn to apply
+problem solving skill using programming construct with best practices.
+4.4.2 MTH1114 – Computer Mathematics
+Credit value: 4
+Learning Upon completion of this subject, students should be able to
+outcomes: • Explain various problems in software engineering from mathematical
+modelling point of view
+• Apply discrete mathematics, applied probability and statistics approaches
+to solve software engineering-related problems
+• Use statistical computer packages to analyze software engineering-based
+problems
+Synopsis: Concepts and notations from discrete mathematics, applied probability and
+statistics are useful for the study of software-related problems. Students studying
+this should already have a good grasp of secondary school level mathematics
+(basic calculus and algebra). This subject builds on that foundation through the
+study of logic and proofs, set theory, number theory, basic relations and counting
+models that assist students in approaching problem solving in a logical manner.
+In addition, the study of various graph theory and trees helps to form the basis of
+good software design. Statistics is essential in analysing problems associated
+with software engineering.
+4.4.3 ENG1044 – English for Computer Technology Studies
+Credit value: 4
+Learning Upon completion of this subject, students should be able to
+outcomes:
+• Analyse and critically evaluate opinions and arguments presented in text
+forms to determine merit and accuracy.
+• Write unified, orderly and coherent essays in a variety of genres.
+• Write to present their position on specific issues through logical
+development of arguments and use of supporting evidence.
+• Plan, organise and write a formal report based on their own research of a
+specific area of concern.
+• Paraphrase and summarise the work of others by using correct citation and
+referencing method based on the Harvard Referencing style.
+16Synopsis: This course focuses on reading skills with the main objective to improve
+students’ analytical and critical thinking skills. Activities in class will be geared
+towards analysing opinions, making inferences and evaluating arguments made
+by authors. It also focuses on essay writing at university level. Students will be
+exposed to expository, argumentative and persuasive essay writing. In order to
+improve the necessary writing skills, grammar and structure will be reviewed.
+Proper referencing when using others’ work in their writing will also be
+emphasised. This course is also designed to increase the students’ knowledge
+and understanding of business communication. The course covers important
+business concepts, vocabulary, and forms (emails, memos, reports) and develops
+strategies and writing skills based on audience awareness.
+4.4.4 SEG1201 – Database Fundamentals
+Credit value: 4
+Learning Upon completion of this subject, students should be able to
+outcomes:
+• Apply data modelling and the underlying concepts of database systems.
+• Implement a database design group project using appropriate tools such as
+Oracle SQL.
+• Use SQL for data creation and retrieval.
+Synopsis: This course covers the underlying concepts of analysis, design and implemention a
+database using relational data modeling, SQL and database management system.
+4.4.5 PRG1203 – Object Oriented Programming Fundamentals
+Credit value: 4
+Learning Upon completion of this subject, students should be able to
+outcomes:
+• Apply the basic object oriented knowledge in programming design
+• Create executable program according to object oriented conventional practices
+• Design object oriented solution for simple problem using UML diagrams
+Synopsis: This subject charts a general overview of the basic ideas of OO programming. The
+fundamental concepts such as object encapsulation and object message passing.
+The students will learn the problem-solving skill and appreciate the significance of
+Object-Oriented programming.
+4.4.6 CSC1202 – Computer Organisation
+Credit value: 4
+Learning Upon completion of this subject, students should be able to
+outcomes:
+• Describe the basic organisation, characteristics, functions, and operations of
+major components in a digital computer system.
+• Write and interpret basic assembly language instructions and programs
+• Solve computer arithmetic and digital logic problems.
+Synopsis: The subject aids in the understanding of computer organisation, and the concept
+of the digital computer. It includes the study of the various functional units of
+digital computers comprising the Central Processing Unit, memory and
+input/output organisation, the assembler, arithmetic and logic that forms the basis
+of a digital computer system’s problem-solving capabilities. Supporting and
+extending this knowledge are the various processor characteristics, functions and
+17operations, as well as the various architectures that exist in industrial applications
+today.
+4.4.7 NET1014 – Networking Principles
+Credit value: 4
+Learning Upon completion of this subject, students should be able to
+outcomes:
+• Describe the basic concepts and technologies of data communication and
+computer networking.
+• Compare, categorise and contrast common network protocols and commonly
+used network hardware.
+• Evaluate and modify a local area network according to given requirements.
+Synopsis: This course aims to provide students a basic understanding of networking terms
+and the skills to be able to plan and setup the network infrastructure for homes and
+small businesses. The topics include basic concepts and technologies of
+transmission and communication, networking hardware, standards, networking
+topologies, protocols and network design process.
+4.4.8 WEB1201 – Web Fundamentals
+Credit value: 4
+Learning Upon completion of this subject, students should be able to
+outcomes:
+• Explain how the Internet works and concepts of Web environment.
+• Apply Web design principles and techniques in the designing of Web pages.
+• Design and develop Web pages using HTML, CSS and JavaScript.
+• Build a Web site with Web usability features.
+Synopsis: The course introduces students to the fundamentals of Web development which
+includes Web design principles, usability issues to the core of Web technologies.
+Students will be exposed to the techniques of Web design, the different types of
+Web site layouts, Web site design themes and the architecture that is deployed.
+4.4.9 OSS1014/CSC2104 – Operating System Fundamentals
+Credit value: 4
+Learning Upon completion of this subject, students should be able to
+outcomes:
+• Describe the concepts, structures and designs related to operating systems.
+• Demonstrate the use of scripting and programming skills in solving tasks
+related to operating systems.
+• Compare and contrast solutions and algorithms from different perspectives.
+Synopsis: This course introduces the students operating, its structures, objectives and
+functions, it explains the characteristics of modern operating systems, process
+management, storage management, paging and segmentation, virtual memory,
+hardware and control structures. It also discusses the issues related to security
+and protection.
+4.4.10 MPU 3112 – Penghayatan Etika dan Peradaban
+Credit value: 2
+18Learning Setelah tamat kursus ini pelajar dapat
+outcomes: • Menjelaskan konsep etika dan peradaban dalam konteks penghayatannya
+mengikut acuan Malaysia
+• Menganalisis sistem, tahap perkembangan, kemajuan sosial dan kebudayaan
+merentas etnik.
+• Menilai isu kontemporari berkaitan ekonomi, politik, sosial, budaya dan
+alam sekitar daripada perspektif etika dan peradaban.
+Synopsis: Kursus ini mempersiapkan pelajar untuk menghayati etika dan peradaban yang
+wujud dalam masyarakat kepelbagaian etnik di Malaysia untuk memperteguhkan
+pemikiran kritikal dan analitikal mereka bagi menangani kehidupan yang lebih
+mencabar. Pengisian kursus ini memfokuskan kepada penghayatan etika dan
+peradaban dalam acuan Malaysia. Pelajar akan didedahkan dengan dinamika
+konsep etika dan peradaban yang menjadi kekuatan kepada pembentukan negara
+Malaysia berdasarkan susur masa evolusi sejarahnya dari era pra-kolonial
+sehingga ke pasca-kolonial. Kefahaman tentang pembentukan etika dan
+peradaban dalam masyarakat kepelbagaian dibincangkan bagi meningkatkan
+penghayatan etika dan peradaban ke arah pemantapan kesepaduan nasional dan
+bangsa Malaysia. Peradaban acuan Malaysia perlu dikupas serta diperdebatkan
+dalam aktiviti akademik berpandukan Perlembagaan Persekutuan sebagai tapak
+integrasi dan wahana etika dan peradaban. Pembinaan kesepaduan nasional amat
+dipengaruhi oleh globalisasi dan perkembangan teknologi maklumat dan
+komunikasi yang kompleks. Oleh kerana itu, penghayatan etika dan peradaban
+menzahirkan perilaku tanggungjawab sosial dan digerakkan pada peringkat
+individu, keluarga, komuniti, masyarakat, dan negara. Justeru, perubahan yang
+berlaku dalam masyarakat dan pembangunan langsung ekonomi telah membawa
+cabaran baru dalam mengukuhkan kelestarian etika dan peradaban di Malaysia.
+Amalan Pendidikan Berimpak Tinggi (HIEPs) dipraktikkan dalam pengajaran
+dan pembelajaran bagi mendalami kursus ini. (pengajaran & pembelajaran).
+4.4.11 MPU 3142 - Malay Language for Communication 2
+Credit value: 2
+Learning Setelah tamat kursus ini pelajar dapat
+outcomes: • Menerangkan kandungan teks penuh yang menggunakan ayat mudah dan ayat
+berlapis
+• Bertutur dalam pelbagai situasi dengan menggunakan ayat mudah dan ayat
+berlapis
+• menyusun idea secara kreatif dan sistematik dalam penulisan karangan pendek
+Synopsis: Kursus ini melatih pelajar antarabangsa untuk berkomunikasi dalam bahasa
+Melayu asas yang meliputi situasi kehidupan harian. Pelajar akan diperkenalkan
+dengan pertuturan dan penulisan bahasa Melayu mudah. Pengajaran dan
+pembelajaran akan dilaksanakan dalam bentuk kuliah, tutorial, tugasan dan
+pengalaman pembelajaran pelajar di dalam dan di luar kelas. Pada akhir kursus ini,
+pelajar diharapkan dapar berkomunikasi dengan berkesan.
+4.4.12 MPU 3122 – Falsafah dan Isu Semasa
+Credit value: 2
+Learning Setelah tamat kursus ini pelajar dapat
+outcomes: • Menjelaskan isu semasa berlandaskan ilmu falsafah, Falsafah Pendidikan
+Kebangsaan dan Rukun Negara.
+• Menerangkan isu semasa berdasarkan aliran pemikiran utama dalam pelbagai
+aliran falsafah.
+• Menganalisis isu semasa melalui perspektif perbandingan falsafah sebagai asas
+bagi menjalin dialog antara budaya.
+19Synopsis: Kursus ini merangkumi hubungan ilmu falsafah dengan Falsafah Pendidikan
+Kebangsaan dan Rukun Negara. Penggunaan falsafah sebagai alat untuk
+memurnikan budaya pemikiran dalam kehidupan melalui seni dan kaedah berfikir
+serta konsep insan. Topik utama dalam falsafah iaitu epistemologi, metafizik dan
+etika dibincangkan dalam konteks isu semasa. Penekanan diberikan kepada
+falsafah sebagai asas bagi menjalin dialog antara budaya serta memupuk nilai
+sepunya. Di hujung kursus ini pelajar akan mampu melihat disiplin-disiplin ilmu
+sebagai satu badan ilmu yang komprehensif dan terkait antara satu sama lain.
+4.4.13 MPU 3132 - Appreciation of Ethics and Civilisation
+Credit value: 2
+Learning Upon completion of this subject, students should be able to
+outcomes:
+• Explain the concept of ethics and civilization in the context of its appreciation
+according to the Malaysian perspectives
+• Analyze the growth of ethics and civilization from various civilization
+perspectives
+• Evaluate on the contemporary issues related to economic, political, social,
+culture and environment from an ethical and civilization perpective
+Synopsis: This course prepares students to appreciate the ethics and civilization that exists in
+the multi-ethnic society in Malaysia to strengthen their critical and analytical
+thinking to deal with a more challenging life. The content of this course focuses on
+the appreciation of ethics and civilization in the Malaysian mold. Students will be
+exposed to the dynamics of the concept of ethics and civilization which is a strength
+to the formation of Malaysia based on the timeline of its historical evolution from
+the pre-colonial to the post-colonial era. An understanding of the formation of
+ethics and civilization in a diverse society is discussed to enhance the appreciation
+of ethics and civilization towards strengthening national unity and the Malaysian
+nation. Malaysian mold civilization needs to be peeled and debated in academic
+activities guided by the Federal Constitution as a site of integration and a vehicle
+of ethics and civilization. The construction of national unity is strongly influenced
+by globalization and the development of complex information and communication
+technologies. Therefore, the appreciation of ethics and civilization reveals the
+behavior of social responsibility and is mobilized at the individual, family,
+community, community, and national levels. Thus, the changes that have taken
+place in society and the direct development of the economy have brought new
+challenges in strengthening the sustainability of ethics and civilization in Malaysia.
+High Impact Education Practices (HIEPs) are practiced in teaching and learning to
+deepen this course (teaching & learning).
+4.4.14 MPU 3212 – Critical Thinking
+Credit value: 2
+Learning Upon completion of this subject, students should be able to
+outcomes:
+• To identify the fundamental concepts of critical thinking.
+• To analyze information and arguments critically.
+• To apply critical thinking methods in problem-solving.
+Synopsis: This subject focused on developing critical thinking skills among students. This
+subject guides students to cultivate analytical, evaluative, and problem-solving
+skills. Students will understand the fundamental concepts of critical thinking,
+practice logical thinking, and apply these skills in various contexts. Through
+learning activities students will sharpen their critical awareness to make
+informed decisions. The subject also encourages students to think creatively and
+innovatively in addressing current challenges. Emphasizing critical thinking, this
+20subject helps shape students into individuals capable of thinking systematically,
+logically, and creatively in the face of the complexities of the modern world.
+4.4.15 MPU 3232 – Bahasa Kebangsaan A
+Credit value: 2
+Learning Upon completion of this subject, students should be able to
+outcomes:
+• Bertutur dengan berkesan dalam situasi rasmi.
+• Menghasilkan penulisan yang jelas dan bersistematik.
+• Membina hubungan baik dalam kerja berpasukan/organisasi.
+Synopsis: Kursus ini menawarkan kemahiran berbahasa dari aspek mendengar, bertutur,
+membaca dan menulis sesuai dengan tahap ientelek pelajar. Tujuan kursus ini
+adalah untuk meningkatkan kecekapan berbahasa dalam konteks rasmi dan tidak
+rasmi. Pengajaran dan pembelajaran akan dilaksanakan dalam bentuk kuliah,
+tutorial, tugasan, aktiviti kebahasaan, main peranan (role play), ujian dan
+peperiksaan. Pada akhir kursus ini, pelajar diharapkan dapat menguasai
+kemahiran berbahasa secara lisan dan tulisan.
+4.4.16 CSC3024 – Human Computer Interaction
+Credit value: 4
+Learning Upon completion of this subject, students should be able to
+outcomes:
+• Explain the methods and tools that can be used construct a human/user-
+centred system.
+• Describe in writing how knowledge of human factors and the adherence of
+different design rules influences student's practice of user interface design
+• Devise user research for a small interactive system to draw conclusions of
+the suitability of its interface design to fulfill the specified user's needs
+Synopsis: This subject mainly focuses on the underlying principles, theories and methods
+of human-computer interaction. Students will be guided on human aspects of
+systems design. Examples of innovative and mundane interactive applications
+will be provided. This subject also includes practical application designs for a
+small but real interactive system.
+4.4.17 CSC2103 – Data Structures & Algorithms
+Credit value: 4
+Learning Upon completion of this subject, students should be able to
+outcomes:
+• Explain various types of data structures, algorithms, and its usages in
+computing for specific problem-solving.
+• Solve practical problems where the choice of data structures and algorithms
+are essential to implement effective programs with acceptable time and
+space requirements.
+• Implement a group project requiring the implementation of appropriate data
+structures and algorithms for a problem both independently and
+cooperatively.
+Synopsis: This course introduces the students a variety of data structures such as stacks
+queues, lists, trees, graphs, hash tables together with algorithms for manipulating
+these structures. Many forms of application scenarios are covered with the
+21emphasis being put on algorithm efficiency, program structure, and abstract data
+types. This course also covers the algorithms that are appropriate to solve real-
+word applications related to software engineering, networking, and security
+aspects.
+4.4.18 PRG2104 – Object Oriented Programming
+Credit value: 4
+Learning Upon completion of this subject, students should be able to
+outcomes:
+• Explain advanced object-oriented programming concepts - inheritance,
+polymorphism, parametric polymorphism.
+• Apply advanced OOP concepts through abstraction and object-oriented
+modeling in problem solving.
+• Demonstrate how to use collections framework / library components and
+exceptions in team.
+• Write computer programs that utilise third-party object-oriented libraries.
+Synopsis: This subject emphasizes the object-oriented concepts of advanced programming.
+The students will learn effective ways of writing rigorous OO programs. The
+students will be taught to further appreciate the object-oriented approach through
+the writing of a GUI application.
+4.4.19 ENG2044 - Communication Skills
+Credit value: 4
+Learning Upon completion of this subject, students should be able to
+outcomes:
+• Identify and explain specific problems/ concepts in interpersonal and group
+communication situations
+• Apply a variety of strategies and techniques to overcome these problems
+• Present persuasive speeches that are well-developed, that are supported with
+credible evidence, and that makes effective use of technology and visual aids
+• Adopt appropriate job interview skills and prepare a resume and cover email
+Synopsis: This is an interactive course which combines online discussion and a variety of oral
+activities meant to give students opportunities to practise and master the basic
+concepts in communicating. Students are expected to be able to participate in
+synchronous and asynchronous discussions which focus on various aspects of
+communication. In addition, students are expected to demonstrate their
+understanding of the issues discussed and the skills needed for effective
+communication through a variety of oral assignments.
+4.4.20 ENT2012 – Entrepreneurial Mindset & Skills
+Credit value: 2
+Learning Upon completion of this subject, students should be able to
+outcomes:
+• Explain key characteristic and the mindset of an entrepreneur in the 21st
+Century.
+• Demonstrate entrepreneurial mindset & skills in solving SDG-related
+problems.
+22Synopsis: This subject introduces students to the entrepreneurial mindset and skills needed to
+be a successful entrepreneur in the 21st Century. It explains what an entrepreneurial
+venture is and covers the key mindset qualities and characteristics and skills needed
+for entrepreneurial endeavour. Lastly, it explains the necessity of entrepreneurship
+for the future.
+4.4.21 MPU3422 – Community Service for Planetary Health
+Credit value: 2
+Learning Upon completion of this subject, students should be able to
+outcomes:
+• Apply the concept of planetary health, its core principles and key issues,
+especially in relation to local communities
+• Design a solution for a diagnosed planetary health problem at the level of the
+community
+• Appreciate one's civic responsibility and potential contribution in advancing
+planetary health at the community level in collaboration with others
+Synopsis: This module aims to introduce to undergraduate students the new concept of
+planetary health – a holistic approach that integrates the care of the health of people
+and that of planet Earth. The course will also create awareness of civic
+responsibility among students and the contributions they can make to advance
+planetary health at the community level. The course will develop students’
+knowledge and skills that will enable them to investigate planetary health problems
+and to develop projects that will help solve them. Together with a host organisation,
+students will work in teams in tackling a specific planetary health issue affecting a
+particular community, such as marginalised groups, patients, businesses, young
+people, among others.
+4.4.22 MPU3332 – Integrity and Anti-Corruption (KIAR)
+Credit value: 2
+Learning Upon completion of this subject, students should be able to
+outcomes:
+• Explain the concept of integrity and anti-corruption in daily activities.
+• Assess forms of corruption and abuse of power in daily activities and
+organisations.
+• Relate the values of integrity and anti-corruption with current issues.
+Synopsis: This course covers the basic concept of corruption including the value of integrity,
+anti-corruption, forms of corruption, abuse of power in daily activities and
+organizations as well as ways to prevent corruption. Cases related to corruption are
+discussed. Teaching and learning methods are implemented in the form of
+‘experiential learning’ through individual and group activities. At the end of this
+course, students are able to understand the practice of integrity, the concept of
+corruption, anti-corruption, abuse of power as well as the prevention of corruption
+in society and organizations.
+4.4.23 NET2201 – Computer Networks
+Credit value: 4
+Learning Upon completion of this subject, students should be able to
+outcomes:
+• Explain how communication network protocols at different layers work.
+23• Analyze operation of different network protocols in action by using
+networking tools.
+• Demonstrate the strengths and weaknesses of each communication network
+protocol.
+• Manage networking problems by performing network diagnosis and
+troubleshooting tools.
+Synopsis: The purpose of this course is to provide students with an in-depth understanding of
+key issues in the effective development and use of computer networking and
+telecommunications. This would involve an analysis of the architecture, standards
+and protocols that have been developed and adopted for computer communications.
+4.4.24 SEG2202 – Software Engineering
+Credit value: 4
+Learning Upon completion of this subject, students should be able to
+outcomes:
+• Apply software process model into different software product deliverables.
+• Analyze the quality of multiple software designs based on key design
+principles and concepts and its phases including the deliverables that are
+produced.
+• Relate the principal issues associated with software development and their
+impact on the software life cycle.
+• Demonstrate skills to work in a team.
+Synopsis: Software engineering is the discipline concerned with the application of theory,
+knowledge and practice for effectively and efficiently building software systems
+that satisfy the requirements of users and customers. It is applicable to small,
+medium and large scale systems. It encompasses all phases of the life cycle of a
+software system. The life cycle includes requirement analysis and specification,
+design, construction testing and operation and maintenance.
+4.4.25 CSC2014 – Digital Image Processing
+Credit value: 4
+Learning Upon completion of this subject, students should be able to
+outcomes:
+• Describe the fundamental theories and operations of image and video
+processing techniques in spatial-domain and frequency-domain.
+• Apply different spatial-domain image and video processing techniques for
+specific visual processing problems.
+• Apply different frequency-domain and image and video processing
+techniques for specific visual processing problems.
+• Create a real-world visual application by using different image and video
+processing techniques.
+Synopsis: This course teaches the students the basics of digital imaging processing. It also
+introduces the concepts and algorithms of various types of image processing
+techniques, which include image filtering, enhancement, restoration,
+compression, and segmentation In addition, the students will learn to program
+and implement these techniques as well.
+4.4.26 NET2102 – Data Communications
+Credit value: 4
+24Learning Upon completion of this subject, students should be able to
+outcomes:
+• Describe the basics of data communications.
+• Compare different approaches in physical layer signalling.
+• Solve mathematical models for analogue and digital communications.
+• Analyze various transmission impairments for a type of media and signalling
+method.
+Synopsis: This course teaches the students the basics of digital and analogue data
+communication. It explains the basic mechanism used in physical layer
+signalling such as wired and wireless links. It gives an overview of the basics of
+networking.
+4.4.27 SEG2102 – Database Management Systems
+Credit value: 4
+Learning Upon completion of this subject, students should be able to
+outcomes:
+• Examine the advanced concept of database systems from the aspects of
+models design, data integrity, database scability and access control.
+• Perform the mechanism for enabling data integrity, database scability and
+access control.
+• Assess different database models with respect to their design, strengths and
+weaknesses.
+Synopsis: This course teaches students the knowledge and skills of designing and managing
+database from the performance aspects of data security and integrity, which include
+the following :
+• Advanced concepts and application of a database analysis and design
+• Design and build an efficient database system with core query performance,
+data security and integrity functionalities
+• Apply the knowledge using programming tools MYSQL / ORACLE together
+with PL/SQL
+• Introduction to real world databases design approaches such as data
+warehouse, distributed databases, NoSQL databases
+4.4.28 PRG2205 – Programming Languages
+Credit value: 4
+Learning Upon completion of this subject, students should be able to
+outcomes:
+• Evaluate the trade-offs between the different paradigms in terms of space
+and time efficiency (of computer and programmer), safety and power of
+expression.
+• Describe the various phases of programming language translation.
+• Explain the role of declaration models and types with respect to
+programming-in-the-large.
+• Explain how abstraction mechanisms support the creation of reusable
+software components.
+• Describe how the various programming language components and
+mechanisms impact programming language design.
+Synopsis: A programming language is a programmer’s principal interface with the
+computer. More than just knowing how to program in a single language,
+programmers need to understand the different styles of programming promoted
+by different languages. In their professional life, they will be working with many
+different languages and styles at once, and will encounter many different
+languages over the course of their careers. Understanding the variety of
+25programming languages and the design trade-offs between the different
+programming paradigms makes it much easier to master new languages quickly.
+4.4.29 BIS2102 - Information Systems Analysis & Design
+Credit value: 4
+Learning Upon completion of this subject, students should be able to
+outcomes:
+• Apply the planning and analysis phases from the systems development life
+cycle.
+• Combine the output from analysis and design phases through project
+documentation.
+• Demonstrate the system's design and construction layers.
+Synopsis: Information Systems are considered by all organizations as critical to their ability
+to compete and gain competitive advantage. This subject focuses on the analysis
+and design of Information Systems. In particular, the analysis process is applied to
+business requirements for Information Systems so that the Information Systems
+are designed to fulfil those business requirements. Therefore, the product of
+systems analysis and design is an information system. Within the context of
+Information Systems, the emphasis of this subject is on the business issues that
+concern the owners and users of Information Systems.
+4.4.30 CSC2074 – Mobile Application Development
+Credit value: 4
+Learning Upon completion of this subject, students should be able to
+outcomes:
+• Apply the mobile programming knowledge in developing basic mobile
+application.
+• Create executable mobile application by utilizing the application development
+tool.
+• Construct mobile application using various mobile programming components
+and libraries.
+Synopsis: This subject aims to provide students with a good range of techniques features in
+the development of Android mobile application. This will include the introduction
+to mobile application development framework as well as the development
+environment, various components and features required to develop the mobile
+application.
+4.4.31 CSC2044 – Concurrent Programming
+Credit value: 4
+26Learning Upon completion of this subject, students should be able to
+outcomes:
+• Describe the strengths and weaknesses of concurrent programming in solving
+real-world problems.
+• Demonstrate the knowledge in resolving concurrency problems with different
+solutions.
+• Demonstrate good programming practice in the design of concurrent program.
+• Develop concurrent program that uses the concept of multi-threading and
+synchronisation.
+Synopsis: This subject provides a strong foundation of concurrent programming in theory
+and practice. The syllabus covers the overview of concurrent programming and
+shared variable programming. In addition, the students will learn to program by
+using the concurrent concepts.
+4.4.32 PRG2214 – Functional Programming Principles
+Credit value: 4
+Learning Upon completion of this subject, students should be able to
+outcomes:
+• Explain the principal of functional programming
+• Use polymorphism and higher-order functions and demonstrate problem
+solving skill in Functional approach
+• Develop and design program in functional styles
+Synopsis: This subject mainly focuses on the basic of functional programming. The
+fundamental concept such lambda function, recursion, evaluation of expression,
+and currying. The students will be taught problem solving tools utilizing functional
+approach to implement their design ideas
+4.4.33 BIS2216 – Data Mining and Knowledge Discovery Fundamentals
+Credit value: 4
+Learning Upon completion of this subject, students should be able to
+outcomes: • Examine the fundamental concept of data mining process
+• Apply basic data mining process using related industry used software tools
+• Analyse real world data mining applications
+This course teaches the student:
+Synopsis:
+• Data mining process and knowledge discovery methods
+• Basic data exploratory techniques and tools used for understanding, analysing
+and interpreting data
+• Fundamental concept of descriptive and predictive data modelling techniques
+and tools used
+4.4.34 SWA2124 – Social and Web Analytics
+Credit value: 4
+Learning Upon completion of this subject, students should be able to
+outcomes:
+• Analyze the theoretical concepts behind social and web analytics
+• Execute appropriate social and web analytics techniques in problem solving
+• Create insights from the social and web analytics in real world applications
+27This subject teaches the student:
+Synopsis:
+• theory of social and web networks
+• techniques and insights for extracting information and knowledge out of
+social and web networks
+• to apply analytics techniques on solving real world problems.
+4.4.35 CSC3206 – Artificial Intelligence
+Credit value: 4
+Learning Upon completion of this subject, students should be able to
+outcomes:
+• Evaluate suitability of AI methods to solve computational problem.
+• Implement appropriate AI method to solve a computational problem
+• Construct a programming script to solve a real-world problem with AI
+method.
+Synopsis: The field of artificial intelligence (AI) is concerned with solving problems that
+are difficult or impractical to solve with other methods. An AI system has to be
+able to represent the domain knowledge correctly, deploy appropriate search
+algorithms to identify the solution, as well as to interpret the solution in
+meaningful ways to the human users. This subject introduces the student to
+popular search strategies and to the most common knowledge representation
+schemes. One of these schemes, called production rules, forms the basis of one
+of the most successful AI accomplishments in its history – expert systems.
+4.4.36 NET3204 – Distributed Systems
+Credit value: 4
+Learning Upon completion of this subject, students should be able to
+outcomes:
+• Discuss distributed systems, the rationale for developing such systems,
+principles and protocol, design and implementation issues or potential
+problems of the systems.
+• Analyse and evaluate the important factors involved client-server
+paradigm, middleware technology in term of their scalability, reliability
+performance and security concerns.
+• Appreciate the Legal, Ethical, and Professional Issues in Distributed
+System Security.
+• Develop simple distributed systems with application of principles and
+protocols of distributed computing.
+Synopsis: This course aims to familiarize students with the middleware tools and
+techniques increasingly used to build large scale modern computing applications
+and services. It offers an in-depth look at the range of modern middleware
+techniques, including AKKA, MOM and RM-ODP. Students will be able
+explore hands-on aspects of these technologies as well as the more theoretical
+architectures. At the end of the course students will have a better understanding
+of the different distributed technologies and will be better able to make decisions
+on the choice of middleware technologies for different problems.
+4.4.37 PRJ3213 – Capstone Project 1
+Credit value: 3
+Learning Upon completion of this subject, students should be able to
+outcomes:
+• Analyze relevant literature to make informed choices in planning the
+project.
+28• Formulate a plan, design, or approaches for the problem space within the
+given timeframe.
+• Communicate with all stakeholders in an ethical and professional manner
+and confidently defend ideas and proposals.
+Synopsis: This is the culmination of the degree in Computing. It requires the student to
+use a range of practices and techniques in solving a substantial problem related
+to their programmes. There are aspects of the Computing discipline from
+different Computing programmes that cannot be presented adequately in the
+formal classroom setting. These skills can be developed only in the framework
+of an independent capstone experience. This course is separated into two
+phases. First phase focuses on the proposal stage and phase 2 focusses on the
+development, implementation, evaluation and documentation stage.
+4.4.38 PRJ3223 – Capstone Project 2
+Credit value: 3
+Learning Upon completion of this subject, students should be able to
+outcomes:
+• Demonstrate the ability of self-conduct and application of respective
+programme’s concepts and theory in the project development.
+• Communicate professionally the results and finding orally or written.
+• Design and develop a substantial project, as well as to devise testing or
+validation regimes to ensure quality deliverables.
+Synopsis: This is the culmination of the degree in Computing. It requires the student to use
+a range of practices and techniques in solving a substantial problem related to
+their programmes. There are aspects of the Computing discipline from different
+Computing programmes that cannot be presented adequately in the formal
+classroom setting. These skills can be developed only in the framework of an
+independent capstone experience. This course is separated into two phases. First
+phase focuses on the proposal stage and phase 2 focusses on the development,
+implementation, evaluation and documentation stage.
+4.4.39 SEG3203 – Internship
+Credit value: 6
+Learning Upon completion of this subject, students should be able to
+outcomes:
+• Adapt relevant technical and analytical skills in the workplace.
+• Act upon the potential goals and choices in relation to various career
+opportunities within the chosen field effectively.
+• Display appropriate ethics and professionalism at workplace.
+Synopsis: Students are placed in companies or organisations in positions relevant to their
+training and education. This placement offers them the opportunity to apply,
+develop, or expand their current skills and knowledge. Additionally, they gain
+insight into the production and/or business aspects of the internship company. The
+internship program spans 12 weeks.
+4.4.40 CSC3064 – Database Engineering
+Credit value: 4
+Learning Upon completion of this subject, students should be able to
+outcomes:
+• Explain the underlying concept of database systems and apply this knowledge to
+propose an appropriate local/remote database system for enterprise.
+29• Compare, Construct, and evaluate complex database functionalities for database
+Administration / performance / tuning.
+• Implement a group project requiring the implementation of appropriate database
+systems for specific enterprise data management both independently and
+cooperatively.
+• Discuss and evaluate the methods of storing, managing and interrogating
+complex data.
+Synopsis: This module provides the advanced concepts and detailed internal aspects of
+relational and non-relational database management systems. This subject uses latest
+database techniques and heavy emphasis on hands-on experience with projects using
+Oracle, and other leading database systems. This module allows the students to learn
+distributed database techniques, database persistence, Object Oriented Databases,
+transactions, crash recovery, cloud databases, and technologies in terms of corporate
+data management.
+4.4.41 CSC3209 – Software Architecture and Design Patterns
+Credit value: 4
+Learning Upon completion of this subject, students should be able to
+outcomes:
+• Create a usable architecture for a client.
+• Apply common and popular design patterns in the process of forming the
+architecture.
+• Convert requirements and scenario into an architecture.
+Synopsis: This course introduces the concepts and practice of software architecture. It also
+discusses what a system is designed to do and how its components are meant to
+interact with each other.
+4.4.42 CSC3014 – Computer Vision
+Credit value: 4
+Learning Upon completion of this subject, students should be able to
+outcomes:
+• Critically evaluate literature on existing computer vision systems to identify
+approaches used to solve a given problem space.
+• Design and implement a basic computer vision system to solve a real-world
+problem.
+Synopsis: The aim of computer vision is to make useful decisions about real physical objects
+and scenes based on sensed images. This entails the construction of scene
+descriptions from images. This subject teaches the students to extract meaningful
+information or description from images using low level image analysis, pattern
+recognition and motion. From this extracted information, students are thought on
+how to use neural networks or fuzzy systems to come to a decision.
+4.4.43 CSC3034 – Computational Intelligence
+Credit value: 4
+Learning Upon completion of this subject, students should be able to
+outcomes:
+• Implement appropriate CI-based solution on typical CI problems..
+• Implement appropriate hybrid CI system to solve a computational problem.
+• Evaluate quality of CI solutions using appropriate performance metrics.
+Synopsis: Computational Intelligence (CI) is a set of Nature-inspired computational
+methodologies and approaches designed to address complex problems of real-
+30world scenarios to which traditional methodologies and algorithmic approaches are
+ineffective / infeasible. It primarily includes Evolutionary Computation, Neural
+Networks, and Fuzzy Systems. These three methodologies would then be combined
+to create hybrid CI systems. The performance of these hybrids would then be
+measured using industry relevant tests.
+4.4.44 CSC3044 – Computer Security
+Credit value: 4
+Learning Upon completion of this subject, students should be able to
+outcomes:
+• Describe the basics of computer security, and distinguish different types of
+security mechanisms.
+• Apply security mechanisms to various functions and components of a
+computer system such as database and software.
+• Evaluate security aspects of computer system.
+• Develop and revise security solutions to real scenarios.
+Synopsis: This course addresses a wide range of areas in computer security, covering topics
+in identification and authentication, access control, reference monitors, Windows
+security, database security, software security, security models, security evaluations,
+encryption and authentication applications. This course will also explore challenges
+in the design and analysis of the security aspects of computer systems. This course
+enables students to understand, think about, and analyze computer security issues.
+4.4.45 CSC3074 – Cloud Computing
+Credit value: 4
+Learning Upon completion of this subject, students should be able to
+outcomes:
+• Describe the characteristics, pricing, supports, concepts and technologies
+related to cloud computing.
+• Apply proper security measures to secure data stored on the cloud.
+• Create an application that incorporates the use of cloud virtual machine, cloud
+storage and/or cloud database.
+Synopsis: This curriculum combines web development essentials with hands-on Cloud
+experience, enhancing career readiness and industry relevance.
+4.4.46 PRG3014 – UI/UX Design and Development
+Credit value: 4
+Learning Upon completion of this subject, students should be able to
+outcomes:
+• Assess the definition and principles of UI/UX Design in order to design with
+intention.
+• Integrate the industry-standard tools and specific project deliverables in UI/UX.
+• Explain the design decisions, through presentations of assignments and
+portfolio.
+Synopsis: Each digital interface/interaction, including web and mobile applications, car
+dashboards, and smart appliances, is crafted to address a specific need or enhance
+our daily lives. From the buttons we press to the gestures we make, the font
+selections to the color palettes—all aspects are meticulously designed by UI/UX
+professionals. In essence, UI/UX serves as the intermediary channel bridging the
+gap between computer software and users. This course, structured around practical
+31projects, delves into the fundamentals and implementation of user interface and
+user experience design for digital platforms.
+4.4.47 MKT2224 – Principles of Marketing
+Credit value: 4
+Learning Upon completion of this subject, students should be able to
+outcomes:
+• Identify and explain the role of marketing in organisations.
+• Evaluate the impact of the environment on marketing.
+• Present a coherent marketing mix effectively.
+Synopsis: The Principles of Marketing subject is an introduction to the Marketing discipline.
+This subject addresses key issues in marketing such as identifying customer needs
+and wants, identifying target markets, examining the marketing mix and methods
+of conducting marketing research. This subject also highlights the important areas
+in marketing that deserve emphasis in today’s globally challenging business world.
+These areas include creating customer satisfaction through superior value, quality
+and service. This subject can be used as a foundation for those intending to major
+in marketing and as an aid to those intending to major in other related fields
+(business, management, sociology, psychology).
+4.4.48 ENT2114 - Principles of Entrepreneurship
+Credit value: 4
+Learning Upon completion of this subject, students should be able to
+outcomes:
+• Develop a degree of familiarity with the theory and practice of
+entrepreneurship including entrepreneurial behaviour.
+• Gain an understanding of the fundamental processess of enterprise creation
+and development.
+• Develop understanding of the nature and problems of entrepreneurship in
+different context.
+Synopsis: The subject is systematically organised around the initiation, planning, growth, and
+development of new and emerging ventures. The subject begins with introduction
+to entrepreneurial mind-set and examines the entrepreneurial revolution that has
+taken root across the globe. The organizational perspective of corporate
+entrepreneurship and the rising trend of social entrepreneurship are also among the
+first few discussion topics of the subject. The subject then examines the initiation
+of entrepreneurial ventures. Topics to be discussed including opportunity
+identification, assessment of opportunities, the pathway of starting a new venture
+and the development of an entrepreneurial plan. The subject concludes with the
+valuation challenge in entrepreneurship that focuses on the importance of business
+valuation and the final harvest of a new venture which includes the management of
+succession strategy and exit strategy for an enterprise.
+4.4.49 DECN2014 – Digital Economy
+Credit value: 4
+Learning Upon completion of this subject, students should be able to
+outcomes:
+• Discuss the factors that contribute to the development of a digital economy.
+• Develop a vision board of the future digital economy for the country.
+32• Research and analyse the status of digital infrastructure element in your
+country.
+• Conduct market analysis and apply different strategies to manage different
+challenges.
+Synopsis: This subject exposes students to the components related to the digital economy
+landscape in terms of infrastructure, consumer sentiments, business vialibility and
+setting up of e-businesses.
+4.4.50 ETP2014 – Startup Foundry
+Credit value: 4
+Learning Upon completion of this subject, students should be able to
+outcomes:
+• Apply design thinking methodology to tackle industry challenges.
+• Build prototypes as a test model to obtain user feedback for potential solutions.
+• Apply the best innovation practices and strategies on new business opportunity
+creation.
+• Develop a business proposal presentation to communicate to external
+audiences effectively.
+A learn by doing course using design thinking and entrepreneurship methodology.
+Synopsis:
+In this course, students will develop a “growth mind set”, which includes problem
+solving skills and the creation of feasible solutions to problem statements that
+have significant economic value and/or meaningful impact to the society.
+Students will be working in teams on real life industry challenges by building
+prototype solutions and pitching this to a panel of industry experts and investors.
+5. Assessment
+All courses will be assessed. Each course will specify learning outcomes and
+assessment criteria by which students can demonstrate the achievement of the
+course learning outcomes.
+5.1 Submission of Assignments
+Assignments submission must be made by the deadline and in the format
+required (either hardcopy and/or electronic or any other format specified).
+Electronic copies must be submitted through “Turnitin” software available in
+eLearn. Please refer to Student Handbook for information on the Academic
+Malpractice.
+5.2 Extensions and Penalties for Late Submissions
+The University requires students to adhere to submission deadlines for any
+form of assessment.
+Course lecturers have the authority to approve extensions of deadlines for
+coursework within their own courses and such agreements will be
+documented.
+33Extensions must be requested by students to course lecturer in advance of
+the deadline, and proper justifications be provided for the request.
+Any work submitted after the deadline, or after any period of extension
+granted shall be marked as a Fail or awarded a zero
+With strong justification(s), a student may appeal to the School against a fail
+or zero-mark result for a late submission of an assessment component. If the
+appeal case is upheld, the result of the assessment component will be
+capped at minimum passing marks.
+5.3 Grading Scheme
+Sunway University operates a standard grading scheme based on percentages to
+denote student performance in each course as follows:
+Marks Point Grade Description
+(%)
+80 – 100 4.00 A+ Distinction
+75 – 79 3.75 A Merit
+70 – 74 3.50 A- Merit
+65 – 69 3.25 B+ Good
+60 – 64 3.00 B Good
+55 – 59 2.75 B- Satisfactory
+50 – 54 2.50 C Satisfactory
+45 – 49 2.25 C- Satisfactory
+40 – 44 2.00 D Pass
+30 – 39 1.50 F Fail
+20-29 1.00 F Note: Applies to:
+0-19 0 F 1. Student fails a course that does not have the
+requirement to pass both continuous and final
+assessment components
+2. Student fails both assessment components of a course
+that has the requirement to pass both continuous and
+final assessment components.
+30 and 1.50 F*
+Failed grade where student has failed one component of a
+above
+course that has the requirement to pass both continuous and
+20 – 29 1.00 F*
+final assessment components.
+0 – 19 0 F*
+30 – 39 1.50 F# Condoned Failure. Failed at third attempt but allowed to
+progress by Assessment Board.
+* Pass at Resit attempt.
+** Pass at Repeat attempt.
+EX Exemption
+INC Incomplete
+P Pass Internship
+P** Pass Internship at Repeat attempt
+34(Z) Course that is in progress. No credits or marks have awarded
+as yet.
+(F) A failed elective course that has been replaced by an
+alternative course.
+W Withdrawn
+^ Credit transfer from another programme
+AU Audit course taken voluntarily to enhance knowledge but will
+not be included in the total credit hours required for
+graduation.
+Note:
+• Only grade P (Pass) or F (Fail) is denoted for Internship courses.
+• For students enrolled on courses offered under a different grading
+scheme, a grade conversion formula will be applied to convert the
+course’s grade to the correct programme grading.
+5.4 Additional requirement to pass a subject
+Computing courses in this programme require the students to pass both
+continuous assessment and final assessment severally to pass the subject.
+For this purpose, all continuous assessments for the course are taken
+together by their weighted-average as a single assessment component and
+are not considered separately.
+A failure of either assessment component will result in a fail grade, even if
+the total mark is 40 or above. Such failure of course due to failure in either
+assessment component is referred to herein as component failure. It is
+considered similar to a course failure with regard to study progression.
+Applicable for Component failures only
+i. Students repeating courses due to course or component failure shall be
+required to attend classes and participate in all learning activities
+including those relating to components which have previously been
+passed.
+6. Publication of Coursework Marks and Examination Results
+6.1 Publication of Results
+Examination results will be posted on iZone after endorsement by the
+Programme Assessment Board. All marks are considered provisional until
+confirmation is given by the Programme Assessment Board.
+356.2 Return of marked assignments
+Marks for coursework (e.g. assignments, presentations, learning tasks, etc.)
+will be published on eLearn no later than three (3) teaching weeks from the
+submission deadline. The University practice for return of marked
+assignments is normally within two to four weeks of the submission deadline.
+Lecturers may mark the assignments either by annotating the electronic copy
+or by writing on the paper copy. It is the student’s responsibility to collect
+the marked assignments. Any marked assignments not collected within one
+month will be destroyed.
+7. Progression
+Decisions on progression of a student pursuing an award are made by the
+Programme Assessment Board (PAB). Progression in any award is dependent on
+achieving a minimum pass of 40% or had exemptions given, in all courses.
+7.1 Progression
+• A student who passes all courses in a semester will progress to the
+following semester.
+• A student who has accumulated 3 failed courses or more, or 10
+credits of courses will not be allowed to take new courses in the
+following semester. However, an exception can be made if the
+failed courses are not offered in the following semester whereby the
+student will be allowed to take up to a maximum of 3 new courses
+(not more than 12 credits) in order to fulfil requirements for full-
+time study provided that the failed courses are not pre-requisites
+for the new courses.
+• Unless prohibited by professional body regulations, undergraduate
+students are given two (2) reassessment opportunities in any
+courses which has been failed in the first attempt, except where an
+irretrievable fail has been awarded as a result of malpractice. The
+reassessment may take place in the form of repeat or re-sit in
+accordance to the stipulated conditions (7.2)
+If the student waives the opportunity to re-sit, he/she will have 2
+remaining attempts to repeat the courses. If the student decides to
+sit for re-sit and fail again, he/ she will have only one (1)
+reassessment opportunity left and is required to repeat the courses
+as the final attempt.
+At any point, the student will be required to repeat the courses at
+the first available opportunity.
+• Please also refer to section 8.4 for other conditions that can affect
+the progression of a student
+367.2 Reassesment
+• Unless prohibited by professional body regulations, undergraduate
+students are given two reassessment opportunities in any course
+which has been failed in the first attempt, except where an
+irretrievable fail has been awarded as a result of malpractice. The
+reassessment may take place in the form of repeat or re-sit in
+accordance to regulations J2.2 and J2.3.
+• If the student waives the opportunity to re-sit, the student will have
+two (2) remaining attempts to repeat the course. Upon failing the re-
+sit at the second attempt, student is required to repeat the course as
+the final attempt.
+• A repeat is an opportunity to make another attempt at all assessment
+components of a course.
+• For a repeat, the student will have to attend classes and take the failed
+course in its entirety. The normal tuition fees as applicable to the
+course will be charged. The student will be allowed to take additional
+courses in the semester on top of the course/s repeated on condition
+that
+i) the total credits taken in the semester does not exceed 19 for
+a full semester and 10 for a short semester.
+ii) accumulated failed credit is below 10 credits.
+• A re-sit is an opportunity to make another attempt at the failed
+assessment component of the course (such as sit for another written
+examination or re-submit coursework) following a marginal failure
+(30% - 39%) or a component failure.
+• The student will have to pay a RM200 fee for each course reassessed.
+• Programme Assessment Board may consider allowing re-sit for all
+courses except Capstone Project and Internship.
+• A re-sit may be considered under the following circumstances:
+i) Marginal failure in courses where the assessment is fully based on
+coursework (applicable only to students from intakes before
+March 2017).
+ii) A student who marginally failed a course, where it is not required
+to pass all assessment components, and who have attained an
+overall course mark that is no more than 10% below the required
+course passing mark, may re-sit the one or more failed assessment
+components required to attain the overall passing mark.
+iii) Students who fail a course due to component failure in a course
+where it is required for all components to be passed will be offered
+the opportunity to re-sit the failed component(s), providing that
+the total mark for all assessment components combined is
+equivalent to a marginal course failure, that is the first course
+failure mark is equivalent or less than 10% below the required
+course passing mark.
+37iv) The course marks after a re-sit are calculated from the total of the
+marks achieved for the previously passed component(s) and the
+marks for any component(s) that are reassessed. Components may
+be passed at different times and do not need to be passed in the
+same assessment cycle.
+v) Students with one or two marginal course failures from the final
+semester of study and who have no other outstanding
+reassessment.
+• Re-sit needs to be conducted at the earliest available opportunity
+before the end of the subsequent semester.
+• Students repeating courses due to course or component failure shall
+be required to attend classes and participate in all learning activities
+including those relating to components which have previously been
+passed.
+• Marks awarded to students from August 2019 intake onwards will be
+based on the actual marks obtained in the re-assessment attempt and
+will not be capped. However, grades from failed attempt(s) will be
+recorded in the progress report and transcript. If the student has to
+repeat the course in another semester, the failed attempt will
+contribute towards the GPA. CGPA will only be calculated based on
+the student’s latest reassessment attempt.
+• The maximum mark that can be awarded for any course after
+reassessment due to course failure or component failure is the
+minimum passing mark (applicable for intakes prior to August 2019).
+If the previous mark and the reassessed marks are below the
+minimum pass mark, then the highest of the marks for the course and/
+or component will be counted as the final mark.
+• Students from 2013 intake onwards are allowed to repeat a passed
+course if required for professional accreditation under specific
+accreditation arrangements. However, the marks obtained in the
+subsequent attempt(s) will not be recorded on student’s transcript
+and will not be used in any calculation of student’s programme marks
+or grade. The marks and/ or grades of any assessment repeated for
+professional accreditation will be recorded in a separate letter issued
+by the Registrar to confirm the examination results.
+Lecturers setting coursework for re-sit, must fulfil the following criteria:
+i. Only set for 1 coursework (not required to follow existing
+coursework components setting)
+ii. Coursework weightage must be at least 30% of overall subject
+iii. Coursework must be individual work.
+7.3 Condonement
+A student who after failing all opportunities to pass a course but had
+achieved a mark of between 30% and 39% in any of the attempts may be
+given condonement for the said course. The failed course must be proposed
+38to the Programme Assessment Board for condonement. The maximum that
+can be condoned is 12 credits for a bachelor’s degree.
+Conditions for Condonement are as below:
+i) All Programme Learning Outcomes continue to be met;
+ii) The mark for the course is at least 30% in any of the attempts;
+iii) The mark for the failed assessment component (referring to
+component failure) is no more than 10% below the minimum
+component pass mark in any of the attempts;
+iv) The student’s CGPA at time of Condonement is at least 2.00;
+v) Professional body requirements do not stipulate that all
+assessment components must be passed and do not prohibit
+condonement.
+7.3 Mandatory Exit
+A student with outstanding failures after all opportunities of reassessment
+have been exhausted, will be required to exit from the programme.
+8. Programme Award and Results
+Awards are recommended by the Programme Assessment Board (PAB). In order
+to be recommended for the award, students must have:
+• Achieved passes in the credit requirements specified for the award.
+• Passed any additional requirements specified by the programme
+associated with the award, including compulsory courses, defined
+combinations of courses and placements.
+• Achieved CGPA greater than or equal to 2.00 from courses that are
+taken into account towards the award classification.
+• Met any required Professional or Statutory Body requirements for the
+award
+8.1 Honours Degree Award Classification
+The classification of awards will be based on the cumulative grade points average
+of contributing courses. The contributing courses for an Honours Degree are
+derived from the results of Year 2 and Year 3 only. Typically, for Bachelor’s level,
+Year 1 courses, MPU courses, and Internship are not calculated towards the
+overall award marks and classification.
+The classification of degree awards, with honours, are as follows:
+39CGPA Classification
+3.50 – 4.00 Class I
+3.00 – 3.49 Class II (I)
+2.50 – 2.99 Class II (II)
+2.00 – 2.49 Class III
+8.2 Calculation Grade Point Average
+Grade Point Average (GPA) is calculated by multiplying grading point with
+course credit and dividing the figure by the number of total credits taken in
+a semester. Formula as below :
+GPA = Sum of (Grading Point x Course Credits) for all courses
+Sum (Total number of credits)
+Upon completion of study, student will get a Cumulative Grade Point Average
+(CGPA).
+Student may refer to the Academic Regulations for a sample calculation of
+GPA, and CGPA.
+8.3 A higher class shall be awarded when a student’s overall profile falls into the
+following scenario:
+i) The Cumulative Grade Point Average (CGPA) is not more than 0.05 points
+below the recommended class; AND
+ii) At least half of the counting credits, or half + 0.5 in the case of an uneven
+number of credits are in the recommended class.
+8.4 Academic Standing
+Determination of students’ academic standing is based on GPA and CGPA
+i) Good Standing - a student is in good standing whenever the student’s
+CGPA is at 2.00 or above.
+ii) Warning - Whenever the GPA for any enrolment period is less than 2.00,
+but the CGPA is 2.00 or above, the student will receive a warning
+notification.
+iii) Probation - The student will be placed on probation whenever the
+student’s CGPA falls below 2.00.
+iv) Extended Probation - The student will be placed on Extended Probation
+when, following a semester on probation, the student’s CGPA is still
+below 2.00, even though the GPA for the enrolment period is 2.00 or
+40above. Students with this status may only be permitted to register a
+maximum of 12 credits.
+v) Final Probation - The student will be placed on Final Probation when,
+following a semester on Extended Probation, the student’s CGPA
+continues to be below 2.00, even though the student’s GPA for the
+enrolment period is 2.00 or above. Students may only register not more
+than 12 credits in that particular semester.
+vi) Dismissal - Students on Extended Probation who fails to achieve at least
+a 2.00 GPA for the enrolment period, or students on Final Probation who
+fails to achieve a 2.00 CGPA will have to exit the programme.
+8.5 A student who is dissatisfied with the result of an examination or other
+decision by the Assessment Board may submit a formal application of appeal
+to either Examination Unit or School. Please refer to Student Handbook for
+more details.
+9. Graduation
+The Graduation registration details will be sent to your personal email before
+the Graduation Ceremony. Graduands are required to reply by the stipulated
+deadline.
+10. Others
+Sunway University advocates the Bring Your Own Device (BYOD) environment.
+All students are required to bring their own personal notebook devices to
+campus for study and exam-related activities. With modern learning becoming
+heavily digital, the adoption of BYOD environment is fitting as it enables learning
+anytime and anywhere for our students. Make sure you have a Windows
+notebook that meets our recommended minimum specifications. Please visit
+the FAQ page at https://izone.sunway.edu.my/faq/byod.html for more
+information on BYOD.
+Appendix A: Floor plan of School of Engineering and Technology
+Level 3: Administration Office (East Wing)
+41Level 3: Academic Offices (East Wing)
+42Appendix B: Turnitin
+Turnitin
+1) Go to http://www.turnitin.com/ and click on the “Create Account” button.
+2) Select “Student”.
+433) Enter all the details. Your lecturer will give you the class ID and the enrollment password.
+Please use your imail address for the registration.
+4) Log into your account, you should be able to see the class that you have enrolled. If you want
+to enroll for another class, just click on the “Enroll in a Class” tab.
+445) Again, enter the class ID and the enrollment password given by your lecturer.
+6) You should be able to see the new class that you have enrolled. If you want to submit an
+assignment for a particular class, you just have to click on the class name.
+457) You should be able to see the assignment that you’re required to submit. Click on the
+“Submit” button.
+8) Select the file that you would like to submit.
+46Appendix C: Terms of References for School Board of Studies, Programme Committee and Student Staff
+Committee
+47484950515253Appendix D : Organisational Chart
+54Appendix E : Pre-requisite List
+BSc (Hons) in Computer Science
+Compulsory
+Calculated
+Subject Credit pass for
+Name of Subject Pre-Requisite in Honours
+Code Hour both FE and
+System
+CW
+MTH1114 Computer Mathematics 4 Nil NO YES
+English for Computer Technology
+ENG1044 4 Nil NO NO
+Studies
+SEG1201 Database Fundamentals 4 Nil NO YES
+Object Oriented Programming CSC1024 Programming
+PRG1203 4 NO YES
+Fundamentals Principles
+CSC1202 Computer Organisation 4 Nil NO YES
+WEB1201 Web Fundamentals 4 Nil NO YES
+CSC1024 Programming Principles 4 Nil NO YES
+NET1014 Networking Principles 4 Nil NO YES
+OSS1014 Operating Systems Fundamentals 4 Nil NO YES
+Penghayatan Etika dan
+MPU 3112 2 Nil NO NO
+Peradaban
+Malay Language for
+MPU 3142 Communication 2 (Bahasa 2 Nil NO NO
+Melayu Komunikasi 2)
+MPU 3122 Falsafah dan Isu Semasa 2 Nil NO NO
+Appreciation of Ethics and
+MPU 3132 2 Nil NO NO
+Civilisation
+CSC1024 Programming
+CSC2103 Data Structure & Algorithms 4 YES YES
+Principles
+PRG1203 Object
+PRG2104 Object Oriented Programming 4 Oriented Programming YES YES
+Fundamentals
+PRG1203 Object
+SEG2202 Software Engineering 4 Oriented Programming YES YES
+Fundamentals
+Entrepreneurial Mindset and
+ENT2012 2 Nil YES NO
+Skills
+ENG2044 Communication Skills 4 Nil YES NO
+Integrity and Anti-Corruption
+MPU3332 2 Nil NO NO
+(KIAR)
+55MPU 3212 Critical Thinking 2 Nil NO NO
+MPU 3232 Bahasa Kebangsaan A 2 Nil NO NO
+Information Systems Analysis &
+BIS2102 4 Nil YES YES
+Design
+Data Mining and Knowledge
+BIS2216 4 Nil YES YES
+Discovery Fundamentals
+CSC2014 Digital Image Processing 4 Nil YES YES
+PRG1203 Object
+Oriented Programming
+CSC2044 Concurrent Programming 4 Fundamentals, YES YES
+PRG2104 Object
+Oriented Programming
+PRG1203 Object
+CSC2074 Mobile Application Development 4 Oriented Programming YES YES
+Fundamentals
+NET2102 Data Communications 4 Nil YES YES
+NET2201 Computer Networks 4 Nil YES YES
+PRG1203 Object
+PRG2205 Programming Languages 4 Oriented Programming YES YES
+Fundamentals
+CSC1024 Programming
+Functional Programming Principles,
+PRG2214 4 YES YES
+Principles MTH1114 Computer
+Mathematics
+SEG1201 Database
+SEG2102 Database Management Systems 4 YES YES
+Fundamentals
+CSC1024 Programming
+SWA2124 Social and Web Analytics 4 YES YES
+Principles
+Community Service for Planetary
+MPU3422 2 Nil NO NO
+Health
+WEB1201 Web
+CSC3024 Human Computer Interaction 4 YES YES
+Fundamentals
+CSC1024 Programming
+CSC3206 Artificial Intelligence 4 YES YES
+Principles
+PRG2104 Object
+NET3204 Distributed Systems 4 YES YES
+Oriented Programming
+ENG2044
+Communication Skills,
+SEG3203 Internship 6 NO NO
+Completion of all Year
+2 subjects
+ENG1044 English for
+Computer Technology
+PRJ3213 Capstone Project 1 3 Studies, PRG2104 YES NO
+Object Oriented
+Programming
+56PRJ3213 Capstone
+PRJ3223 Capstone Project 2 3 YES NO
+Project 1
+SEG2102 Database
+CSC3064 Database Engineering 4 YES YES
+Management Systems
+PRG2104 Object
+Oriented
+Software Architecture and Design
+CSC3209 4 Programming, YES YES
+Patterns
+SEG2202 Software
+Engineering
+CSC2014 Digital Image
+CSC3014 Computer Vision 4 YES YES
+Processing
+CSC3206 Artificial
+CSC3034 Computational Intelligence 4 YES YES
+Intelligence (co-req)
+SEG1201 Database
+Fundamentals,
+CSC1024 Programming
+CSC3044 Computer Security 4 YES YES
+Principles,
+WEB1201 Web
+Fundamentals
+NET1014 Networking
+CSC3074 Cloud Computing 4 YES YES
+Principles
+PRG1203 Object
+Oriented Programming
+Fundamentals,
+CSC3024 Human
+PRG3014 UI/UX Design and Development 4 YES YES
+Computer Interaction
+(co-req),
+WEB1201 Web
+Fundamentals
+* Information is correct at the time of printing. All information is subject to change.
+* Subjects listed are based on BSc (Hons) in Computer Science latest programme structure. For subjects not listed in
+this list, please refer to your Programme Coordinator.
+57

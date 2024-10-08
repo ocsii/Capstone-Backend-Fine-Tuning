@@ -79,5 +79,6 @@ def extract_text (input_dir, output_dir):
                 print(f"Error procesing {filename}: {e}")
 
 
-extract_text(input_dir, output_dir)
-print("Done extraction")
+if __name__ == "__main__":
+    extract_text(input_dir, output_dir)
+    print("Done extraction")

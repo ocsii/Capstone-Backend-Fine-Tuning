@@ -71,7 +71,7 @@ def extract_text (input_dir, output_dir):
                     
                     # Store extract text in (.txt file)
                     with open(output_path, 'w', encoding='utf-8') as f:
-                        f.write(extracted_text)
+                        f.write(extracted_text.lower())
 
                     print(f"Succesfully processed {filename}")
 

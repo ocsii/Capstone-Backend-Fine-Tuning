@@ -18,25 +18,25 @@ It is hoped that the information contained in this handbook will be of use to st
 
 Public Holidays in 2024:
 
-Date: 1 January | Day: Monday | Occasion: New Year’s Day
-Date: 25 January | Day: Thursday | Occasion: Thaipusam Day
-Date: 10 & 11 February | Day: Saturday & Sunday | Occasion: Chinese New Year
-Date: 12 February | Day: Monday | Occasion: Chinese New Year (Replacement Leave)
-Date: 28 March | Day: Thursday | Occasion: Nuzul Al-Quran
-Date: 10 & 11 April | Day: Wednesday & Thursday | Occasion: Hari Raya Aidilfitri
-Date: 1 May | Day: Wednesday | Occasion: Labour Day
-Date: 22 May | Day: Wednesday | Occasion: Wesak Day
-Date: 3 June | Day: Monday | Occasion: Yang di-Pertuan Agong's Birthday
-Date: 17 June | Day: Monday | Occasion: Hari Raya Haji
-Date: 7 July | Day: Sunday | Occasion: Awal Muharram
-Date: 8 July | Day: Monday | Occasion: Awal Muharram (Replacement Leave)
-Date: 31 August | Day: Saturday | Occasion: Malaysia’s National Day (Merdeka Day)
-Date: 16 September | Day: Monday | Occasion: Prophet Muhammad’s Birthday
-Date: 16 September | Day: Monday | Occasion: Malaysia Day
-Date: 17 September | Day: Tuesday | Occasion: Malaysia Day (Replacement Leave)
-Date: 31 October | Day: Thursday | Occasion: Deepavali
-Date: 11 December | Day: Wednesday | Occasion: Sultan of Selangor’s Birthday
-Date: 25 December | Day: Wednesday | Occasion: Christmas Day
+1 January is New Year’s Day, celebrated on a Monday.
+25 January is Thaipusam Day, observed on a Thursday.
+Chinese New Year occurs on 10 & 11 February, a Saturday and Sunday.
+12 February is a Monday, recognized as Chinese New Year (Replacement Leave).
+28 March is Nuzul Al-Quran, falling on a Thursday.
+Hari Raya Aidilfitri is celebrated on 10 & 11 April, a Wednesday and Thursday.
+1 May is Labour Day, observed on a Wednesday.
+22 May is Wesak Day, celebrated on a Wednesday.
+3 June is Yang di-Pertuan Agong's Birthday, occurring on a Monday.
+17 June is Hari Raya Haji, also on a Monday.
+Awal Muharram is on 7 July, a Sunday.
+8 July is Awal Muharram (Replacement Leave), falling on a Monday.
+31 August is Malaysia’s National Day (Merdeka Day), celebrated on a Saturday.
+16 September is both Prophet Muhammad’s Birthday and Malaysia Day, occurring on a Monday.
+17 September is Malaysia Day (Replacement Leave), observed on a Tuesday.
+31 October is Deepavali, celebrated on a Thursday.
+11 December is Sultan of Selangor’s Birthday, occurring on a Wednesday.
+25 December is Christmas Day, observed on a Wednesday.
+
 
 
 
@@ -97,38 +97,70 @@ You may approach the Programme Coordinator regarding matters concerning:
 
 Academic Staff:
 
-Name: Prof. Ir Denny Ng Kok Sum | Phone: 7131 | Email: dennyng@sunway.edu.my | Location: SET Admin (Dean) Office
-Name: Prof. Lau Sian Lun | Phone: 7155 | Email: sianlunl@sunway.edu.my | Location: SET Admin
-Name: Prof. Angela Lee Siew Hoong | Phone: 7156 | Email: angelal@sunway.edu.my | Location: AE-317
-Name: Prof. Ts. Lee Chien Sing | Phone: 7149 | Email: chiensingl@sunway.edu.my | Location: AE-324
-Name: Prof. Angela Amphawan | Phone: 7132 | Email: angelaa@sunway.edu.my | Location: AE-318
-Name: Prof. Dr. Chua Hui Na | Phone: 7138 | Email: huinac@sunway.edu.my | Location: AE-306
-Name: Assoc. Prof. Ir Abdul Aziz Omar | Phone: 7140 | Email: abdulazizo@sunway.edu.my | Location: AE-308
-Name: Assoc. Prof. Ts. Dr. Lee Yun Li | Phone: 7148 | Email: yunlil@sunway.edu.my | Location: AE-325
-Name: Assoc. Prof. Ts. Dr. Aslina Baharum | Phone: 7150 | Email: aslinab@sunway.edu.my | Location: AE-323
-Name: Dr. Melody Tan Shi Ai | Phone: 7133 | Email: melodyt@sunway.edu.my | Location: AE-301
-Name: Dr. Aaliya Sarfaraz | Phone: 7133 | Email: aaliyas@sunway.edu.my | Location: AE-301
-Name: Assoc. Prof. Dr. Low Yeh Ching | Phone: 7135 | Email: yehchingl@sunway.edu.my | Location: AE-303
-Name: Dr. Ling Mee Hong | Phone: 7135 | Email: mhling@sunway.edu.my | Location: AE-303
-Name: Dr. Chia Wai Chong Muthukumaran | Phone: 7137 | Email: waichongc@sunway.edu.my | Location: AE-305
-Name: Ts. Dr. Ngu War Hlaing | Phone: 7144 | Email: warhlaingn@sunway.edu.my | Location: AE-328
-Name: Dr. Richard Wong Teck Ken | Phone: 7144 | Email: richardwtk@sunway.edu.my | Location: AE-327
-Name: Dr. Mehran Behjati | Phone: 7157 | Email: mehranb@sunway.edu.my | Location: AE-311
-Name: Dr. Sathishkumar Easwaramoorthy | Phone: 7142 | Email: sathishv@sunway.edu.my | Location: AE-313
-Name: Dr. Farrukh Hassan | Phone: 7142 | Email: farrukhh@sunway.edu.my | Location: AE-313
-Name: Dr. Samuel Mofoluwa Ajibade | Phone: 7502 | Email: samuelma@sunway.edu.my | Location: AE-315
-Name: Assoc. Prof. Dr. Anwar P.P. Abdul Majeed | Phone: 7502 | Email: anwarm@sunway.edu.my | Location: AE-315
-Name: Dr. Muhammed Basheer Jasser | Phone: 7187 | Email: basheerj@sunway.edu.my | Location: AE-329
-Name: Dr. Ahmad Sahban Rafsanjani | Phone: 7187 | Email: ahmadsahban@sunway.edu.my | Location: AE-329
-Name: Charis Kwan Shwu Chen | Phone: 7134 | Email: charisk@sunway.edu.my | Location: AE-302
-Name: Lim Woan Ning | Phone: 7136 | Email: woanningl@sunway.edu.my | Location: AE-304
-Name: Dr. Chin Teck Min | Phone: 7141 | Email: teckminc@sunway.edu.my | Location: AE-309
-Name: Ts. Yeap Boon Han | Phone: 7141 | Email: boonhany@sunway.edu.my | Location: AE-309
-Name: Nurul Aiman Abdul Rahim (Lecturer) | Phone: N/A | Email: nurulaiman@sunway.edu.my | Location: SU Staff Room - L3
-Name: Dr. Noor Hafizah Hassan (Senior Lecturer) | Phone: N/A | Email: nhafizahh@sunway.edu.my | Location: SU Staff Room - L3
-Name: Dr. Matthew Yeow Yit Hang (Lecturer) | Phone: N/A | Email: matthewyyh@sunway.edu.my | Location: SU Staff Room - L3
-Name: Maisarah Mansor (Lecturer) | Phone: N/A | Email: maisarahma@sunway.edu.my | Location: SU Staff Room - L3
-Name: Dr. Ganesh Kumar (Lecturer) | Phone: N/A | Email: ganeshk@sunway.edu.my | Location: SU Staff Room - L3
+You can contact Prof. Ir Denny Ng Kok Sum at phone number 7131 or via email at dennyng@sunway.edu.my. His office is located in the SET Admin (Dean) Office.
+
+Prof. Lau Sian Lun can be reached at phone number 7155 or through email at sianlunl@sunway.edu.my. He is located in the SET Admin.
+
+For inquiries, contact Prof. Angela Lee Siew Hoong at phone number 7156 or email angelal@sunway.edu.my. Her office is in AE-317.
+
+Prof. Ts. Lee Chien Sing is available at phone number 7149 and email chiensingl@sunway.edu.my. He is located in AE-324.
+
+You can reach Prof. Angela Amphawan at phone number 7132 or email angelaa@sunway.edu.my. She is located in AE-318.
+
+Contact Prof. Dr. Chua Hui Na at phone number 7138 or via email at huinac@sunway.edu.my. Her office is in AE-306.
+
+Assoc. Prof. Ir Abdul Aziz Omar is available at phone number 7140 and email abdulazizo@sunway.edu.my. He is located in AE-308.
+
+For assistance, contact Assoc. Prof. Ts. Dr. Lee Yun Li at phone number 7148 or email yunlil@sunway.edu.my. His office is in AE-325.
+
+You can reach Assoc. Prof. Ts. Dr. Aslina Baharum at phone number 7150 or via email at aslinab@sunway.edu.my. She is located in AE-323.
+
+Dr. Melody Tan Shi Ai can be contacted at phone number 7133 or via email at melodyt@sunway.edu.my. Her office is in AE-301.
+
+Dr. Aaliya Sarfaraz is also available at phone number 7133 and email aaliyas@sunway.edu.my. She is located in AE-301.
+
+Contact Assoc. Prof. Dr. Low Yeh Ching at phone number 7135 or email yehchingl@sunway.edu.my. His office is in AE-303.
+
+You can reach Dr. Ling Mee Hong at phone number 7135 or via email at mhling@sunway.edu.my. She is located in AE-303.
+
+Dr. Chia Wai Chong Muthukumaran is available at phone number 7137 and email waichongc@sunway.edu.my. His office is in AE-305.
+
+For inquiries, contact Ts. Dr. Ngu War Hlaing at phone number 7144 or email warhlaingn@sunway.edu.my. He is located in AE-328.
+
+You can reach Dr. Richard Wong Teck Ken at phone number 7144 or via email at richardwtk@sunway.edu.my. His office is in AE-327.
+
+Dr. Mehran Behjati can be contacted at phone number 7157 or via email at mehranb@sunway.edu.my. His office is in AE-311.
+
+For assistance, contact Dr. Sathishkumar Easwaramoorthy at phone number 7142 or email sathishv@sunway.edu.my. He is located in AE-313.
+
+Dr. Farrukh Hassan is available at phone number 7142 and email farrukhh@sunway.edu.my. His office is in AE-313.
+
+You can reach Dr. Samuel Mofoluwa Ajibade at phone number 7502 or via email at samuelma@sunway.edu.my. His office is in AE-315.
+
+Assoc. Prof. Dr. Anwar P.P. Abdul Majeed can be contacted at phone number 7502 or email anwarm@sunway.edu.my. He is located in AE-315.
+
+Dr. Muhammed Basheer Jasser is available at phone number 7187 or via email at basheerj@sunway.edu.my. His office is in AE-329.
+
+You can reach Dr. Ahmad Sahban Rafsanjani at phone number 7187 or email ahmadsahban@sunway.edu.my. His office is also in AE-329.
+
+Contact Charis Kwan Shwu Chen at phone number 7134 or via email at charisk@sunway.edu.my. Her office is in AE-302.
+
+Lim Woan Ning can be reached at phone number 7136 or email woanningl@sunway.edu.my. She is located in AE-304.
+
+Dr. Chin Teck Min is available at phone number 7141 and email teckminc@sunway.edu.my. His office is in AE-309.
+
+You can reach Ts. Yeap Boon Han at phone number 7141 or via email at boonhany@sunway.edu.my. He is also located in AE-309.
+
+Nurul Aiman Abdul Rahim, a lecturer, can be contacted via email at nurulaiman@sunway.edu.my. She is located in the SU Staff Room - L3.
+
+Dr. Noor Hafizah Hassan, a senior lecturer, can be reached at nhafizahh@sunway.edu.my. She is also in the SU Staff Room - L3.
+
+Dr. Matthew Yeow Yit Hang, a lecturer, is available via email at matthewyyh@sunway.edu.my. His office is in the SU Staff Room - L3.
+
+Maisarah Mansor, a lecturer, can be contacted at maisarahma@sunway.edu.my. She is located in the SU Staff Room - L3.
+
+Finally, Dr. Ganesh Kumar, a lecturer, is available via email at ganeshk@sunway.edu.my. He is also in the SU Staff Room - L3.
+
 
 
 
@@ -136,10 +168,14 @@ Name: Dr. Ganesh Kumar (Lecturer) | Phone: N/A | Email: ganeshk@sunway.edu.my | 
 
 Administrative Staff:
 
-Name: Teo Wei Nie (Senior School Manager) | Email: weiniet@sunway.edu.my | Phone: 7186
-Name: Sandra Poon (Assistant Manager) | Email: sandrap@sunway.edu.my | Phone: 7130
-Name: Catherine Chan Poh Looi (Assistant Manager) | Email: catherinec@sunway.edu.my | Phone: 7121
-Name: Christine Chong Ai Ping (Senior Executive - Administration) | Email: aipingc@sunway.edu.my | Phone: 7502
+You can contact Teo Wei Nie, the Senior School Manager, via email at weiniet@sunway.edu.my or by phone at 7186.
+
+Sandra Poon is the Assistant Manager and can be reached at email sandrap@sunway.edu.my or phone 7130.
+
+Catherine Chan Poh Looi is also an Assistant Manager. You can contact her via email at catherinec@sunway.edu.my or by phone at 7121.
+
+Christine Chong Ai Ping is a Senior Executive in Administration. She can be reached via email at aipingc@sunway.edu.my or by phone at 7502.
+
 
 
 
@@ -229,47 +265,56 @@ Important Notes:
 - Students may view video trailers of elective subjects available in department eLearn to guide them in choosing elective subjects.
 
 Year 1 Subjects:
-Subject Code: NET1014 | Subject Name: Networking Principles | Credit Value: 4
-Subject Code: CSC1024 | Subject Name: Programming Principles | Credit Value: 4
-Subject Code: MTH1114 | Subject Name: Computer Mathematics | Credit Value: 4
-Subject Code: ENG1044 | Subject Name: English for Computer Technology Studies | Credit Value: 4
-Subject Code: SEG1201 | Subject Name: Database Fundamentals | Credit Value: 4
-Subject Code: PRG1203 | Subject Name: Object Oriented Programming Fundamentals | Credit Value: 4
-Subject Code: OSS1014 | Subject Name: Operating Systems Fundamentals | Credit Value: 4
-Subject Code: CSC1202 | Subject Name: Computer Organisation | Credit Value: 4
-Subject Code: WEB1201 | Subject Name: Web Fundamentals | Credit Value: 4
-Subject Code: MPU3112 | Subject Name: Penghayatan Etika dan Peradaban | Credit Value: 2
-Subject Code: MPU3142 | Subject Name: Malay Language for Communication | Credit Value: 2
-Subject Code: MPU3122 | Subject Name: Falsafah dan Isu Semasa | Credit Value: 2
-Subject Code: MPU3132 | Subject Name: Appreciation of Ethics and Civilisation | Credit Value: 2
+The following subjects are available in Year 1:
+
+Subject Code NET1014 is Networking Principles with a credit value of 4.
+Subject Code CSC1024 is Programming Principles with a credit value of 4.
+Subject Code MTH1114 is Computer Mathematics with a credit value of 4.
+Subject Code ENG1044 is English for Computer Technology Studies with a credit value of 4.
+Subject Code SEG1201 is Database Fundamentals with a credit value of 4.
+Subject Code PRG1203 is Object Oriented Programming Fundamentals with a credit value of 4.
+Subject Code OSS1014 is Operating Systems Fundamentals with a credit value of 4.
+Subject Code CSC1202 is Computer Organisation with a credit value of 4.
+Subject Code WEB1201 is Web Fundamentals with a credit value of 4.
+Subject Code MPU3112 is Penghayatan Etika dan Peradaban with a credit value of 2.
+Subject Code MPU3142 is Malay Language for Communication with a credit value of 2.
+Subject Code MPU3122 is Falsafah dan Isu Semasa with a credit value of 2.
+Subject Code MPU3132 is Appreciation of Ethics and Civilisation with a credit value of 2.
 
 Year 2 Subjects:
-Subject Code: CSC2103 | Subject Name: Data Structure & Algorithms | Credit Value: 4
-Subject Code: PRG2104 | Subject Name: Object Oriented Programming | Credit Value: 4
-Subject Code: ENG2044 | Subject Name: Communication Skills | Credit Value: 4
-Subject Code: SEG2202 | Subject Name: Software Engineering | Credit Value: 4
-Subject Code: ENT2012 | Subject Name: Entrepreneurial Mindset and Skills | Credit Value: 2
-Subject Code: MPU3332 | Subject Name: Integrity and Anti-Corruption (Kiar) | Credit Value: 2
-Subject Code: MPU3212 | Subject Name: Critical Thinking | Credit Value: 2
-Subject Code: MPU3232 | Subject Name: Bahasa Kebangsaan A | Credit Value: 2
+The following subjects are available in Year 2:
+
+Subject Code CSC2103 is Data Structure & Algorithms with a credit value of 4.
+Subject Code PRG2104 is Object Oriented Programming with a credit value of 4.
+Subject Code ENG2044 is Communication Skills with a credit value of 4.
+Subject Code SEG2202 is Software Engineering with a credit value of 4.
+Subject Code ENT2012 is Entrepreneurial Mindset and Skills with a credit value of 2.
+Subject Code MPU3332 is Integrity and Anti-Corruption (Kiar) with a credit value of 2.
+Subject Code MPU3212 is Critical Thinking with a credit value of 2.
+Subject Code MPU3232 is Bahasa Kebangsaan A with a credit value of 2.
 
 Year 2 Discipline Electives (Choose Any 3):
-Subject Code: NET2102 | Subject Name: Data Communications | Credit Value: 4
-Subject Code: SEG2102 | Subject Name: Database Management Systems | Credit Value: 4
-Subject Code: CSC2014 | Subject Name: Digital Image Processing | Credit Value: 4
-Subject Code: CSC2044 | Subject Name: Concurrent Programming | Credit Value: 4
-Subject Code: PRG2214 | Subject Name: Functional Programming Principles | Credit Value: 4
-Subject Code: BIS2216 | Subject Name: Data Mining and Knowledge Discovery Fundamentals | Credit Value: 4
-Subject Code: BIS2102 | Subject Name: Information System Analysis & Design | Credit Value: 4
-Subject Code: CSC2074 | Subject Name: Mobile Application Development | Credit Value: 4
-Subject Code: SWA2124 | Subject Name: Social and Web Analytics | Credit Value: 4
-Subject Code: PRG2205 | Subject Name: Programming Languages | Credit Value: 4
-Subject Code: NET2201 | Subject Name: Computer Networks | Credit Value: 4
+The following discipline electives are available for Year 2:
+
+Subject Code NET2102 is Data Communications with a credit value of 4.
+Subject Code SEG2102 is Database Management Systems with a credit value of 4.
+Subject Code CSC2014 is Digital Image Processing with a credit value of 4.
+Subject Code CSC2044 is Concurrent Programming with a credit value of 4.
+Subject Code PRG2214 is Functional Programming Principles with a credit value of 4.
+Subject Code BIS2216 is Data Mining and Knowledge Discovery Fundamentals with a credit value of 4.
+Subject Code BIS2102 is Information System Analysis & Design with a credit value of 4.
+Subject Code CSC2074 is Mobile Application Development with a credit value of 4.
+Subject Code SWA2124 is Social and Web Analytics with a credit value of 4.
+Subject Code PRG2205 is Programming Languages with a credit value of 4.
+Subject Code NET2201 is Computer Networks with a credit value of 4.
 
 Free Electives (Choose 3):
-Free Elective 1 | Credit Value: 4
-Free Elective 2 | Credit Value: 4
-Free Elective 3 | Credit Value: 4
+The following free electives are available:
+
+Free Elective 1 with a credit value of 4.
+Free Elective 2 with a credit value of 4.
+Free Elective 3 with a credit value of 4.
+
 
 Note: These are just some of the free electives. More subjects will be included. The details of free elective subjects offered will be communicated to students before the semester offering.
 - BIO3024 Current Topics in Biomedical Science
@@ -287,22 +332,27 @@ Note: These are just some of the free electives. More subjects will be included.
 - ETP2014 Startup Foundry
 
 Year 3 Subjects:
-Subject Code: MPU3422 | Subject Name: Community Service for Planetary Health | Credit Value: 2
-Subject Code: CSC3024 | Subject Name: Human Computer Interaction | Credit Value: 4
-Subject Code: CSC3206 | Subject Name: Artificial Intelligence | Credit Value: 4
-Subject Code: NET3204 | Subject Name: Distributed Systems | Credit Value: 4
-Subject Code: PRJ3213 | Subject Name: Capstone Project 1 | Credit Value: 3
-Subject Code: PRJ3223 | Subject Name: Capstone Project 2 | Credit Value: 3
-Subject Code: SEG3203 | Subject Name: Internship | Credit Value: 6
+The following subjects are available in Year 3:
+
+Subject Code MPU3422 is Community Service for Planetary Health with a credit value of 2.
+Subject Code CSC3024 is Human Computer Interaction with a credit value of 4.
+Subject Code CSC3206 is Artificial Intelligence with a credit value of 4.
+Subject Code NET3204 is Distributed Systems with a credit value of 4.
+Subject Code PRJ3213 is Capstone Project 1 with a credit value of 3.
+Subject Code PRJ3223 is Capstone Project 2 with a credit value of 3.
+Subject Code SEG3203 is Internship with a credit value of 6.
 
 Year 3 Discipline Electives (Choose Any 2):
-Subject Code: CSC3064 | Subject Name: Database Engineering | Credit Value: 4
-Subject Code: CSC3209 | Subject Name: Software Architecture and Design Patterns | Credit Value: 4
-Subject Code: CSC3014 | Subject Name: Computer Vision | Credit Value: 4
-Subject Code: CSC3034 | Subject Name: Computational Intelligence | Credit Value: 4
-Subject Code: CSC3044 | Subject Name: Computer Security | Credit Value: 4
-Subject Code: CSC3074 | Subject Name: Cloud Computing | Credit Value: 4
-Subject Code: PRG3014 | Subject Name: UI/UX Design and Development | Credit Value: 4
+The following discipline electives are available for Year 3:
+
+Subject Code CSC3064 is Database Engineering with a credit value of 4.
+Subject Code CSC3209 is Software Architecture and Design Patterns with a credit value of 4.
+Subject Code CSC3014 is Computer Vision with a credit value of 4.
+Subject Code CSC3034 is Computational Intelligence with a credit value of 4.
+Subject Code CSC3044 is Computer Security with a credit value of 4.
+Subject Code CSC3074 is Cloud Computing with a credit value of 4.
+Subject Code PRG3014 is UI/UX Design and Development with a credit value of 4.
+
 
 
 
@@ -1259,18 +1309,21 @@ Extensions must be requested by students to the course lecturer in advance of th
 Sunway University operates a standard grading scheme based on percentages to denote student performance in each course as follows:
 
 Marks and Grades:
-Marks: 80 – 100 | Points: 4.00 | Grade: A+ | Description: Distinction
-Marks: 75 – 79 | Points: 3.75 | Grade: A | Description: Merit
-Marks: 70 – 74 | Points: 3.50 | Grade: A- | Description: Merit
-Marks: 65 – 69 | Points: 3.25 | Grade: B+ | Description: Good
-Marks: 60 – 64 | Points: 3.00 | Grade: B | Description: Good
-Marks: 55 – 59 | Points: 2.75 | Grade: B- | Description: Satisfactory
-Marks: 50 – 54 | Points: 2.50 | Grade: C | Description: Satisfactory
-Marks: 45 – 49 | Points: 2.25 | Grade: C- | Description: Satisfactory
-Marks: 40 – 44 | Points: 2.00 | Grade: D | Description: Pass
-Marks: 30 – 39 | Points: 1.50 | Grade: F | Description: Fail
-Marks: 20 – 29 | Points: 1.00 | Grade: F | Description: 
-Marks: 0 – 19 | Points: 0 | Grade: F | Description: 
+The grading system is as follows:
+
+For marks between 80 and 100, the points are 4.00, the grade is A+, and the description is Distinction.
+For marks between 75 and 79, the points are 3.75, the grade is A, and the description is Merit.
+For marks between 70 and 74, the points are 3.50, the grade is A-, and the description is Merit.
+For marks between 65 and 69, the points are 3.25, the grade is B+, and the description is Good.
+For marks between 60 and 64, the points are 3.00, the grade is B, and the description is Good.
+For marks between 55 and 59, the points are 2.75, the grade is B-, and the description is Satisfactory.
+For marks between 50 and 54, the points are 2.50, the grade is C, and the description is Satisfactory.
+For marks between 45 and 49, the points are 2.25, the grade is C-, and the description is Satisfactory.
+For marks between 40 and 44, the points are 2.00, the grade is D, and the description is Pass.
+For marks between 30 and 39, the points are 1.50, the grade is F, and the description is Fail.
+For marks between 20 and 29, the points are 1.00, the grade is F, and there is no description.
+For marks between 0 and 19, the points are 0, the grade is F, and there is no description.
+
 
 
 Notes:

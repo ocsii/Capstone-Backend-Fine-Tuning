@@ -7,7 +7,7 @@ import numpy as np
 sentence_model = SentenceTransformer('all-MiniLM-L6-v2')
 cross_encoder = CrossEncoder('cross-encoder/ms-marco-MiniLM-L-6-v2')
 qa_pipeline = pipeline("question-answering", model="distilbert-base-cased-distilled-squad")
-index = faiss.read_index("data-preperation/datasets/text-faiss/bcs-handbook-manual.faiss")
+index = faiss.read_index("data-preperation/datasets/text-faiss/sunway-handbook-manual.faiss")
 
 def query_faiss_index(query, top_k=10):
     """Search the FAISS index for the top-k closest matches."""
@@ -38,7 +38,7 @@ def generate_response(query):
     distances, indices = query_faiss_index(query)
 
     # Step 2: Retrieve sections from the preprocessed file
-    with open('data-preperation/datasets/text-manually-updated/bcs-handbook-manual.txt', 'r', encoding='utf-8') as f:
+    with open('data-preperation/datasets/text-manually-updated/sunway-handbook-manual.txt', 'r', encoding='utf-8') as f:
         sections = [line.strip() for line in f if line.strip()]
 
     retrieved_sections = [sections[idx] for idx in indices[0]]
@@ -60,6 +60,6 @@ def generate_response(query):
 
 # Example usage
 if __name__ == "__main__":
-    query = "What happens if a student fails a course"
+    query = "What is considered cheating?"
     response = generate_response(query)
     print(response)

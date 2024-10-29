@@ -1,6 +1,6 @@
 import re
 
-def read_and_preprocess_file(input_file='data-preperation/datasets/text-manually-updated/sunway-handbook-manual.txt', 
+def read_and_preprocess_file(input_file='data-preperation/datasets/text-sectioned/save.txt', 
                              output_file='preprocessed_handbook.txt'):
     """Read, clean, and process the handbook content, saving it to a new file."""
     with open(input_file, 'r', encoding='utf-8') as f:
@@ -9,7 +9,7 @@ def read_and_preprocess_file(input_file='data-preperation/datasets/text-manually
     # Split text into sections using two or more newlines
     sections = re.split(r'\n{3,}', raw_text)
 
-    # Process each section: flatten tables, lists, clean text, and convert to lowercase
+    # Process each section: flatten tables, lists, and clean text
     processed_sections = [process_section(section) for section in sections]
 
     # Save processed text into the output file
@@ -20,13 +20,13 @@ def read_and_preprocess_file(input_file='data-preperation/datasets/text-manually
     print(f"Preprocessed text saved to {output_file}")
 
 def process_section(section):
-    """Flatten structured content, clean text, and convert to lowercase while keeping sectioning intact."""
-    lines = section.splitlines()
+    """Flatten structured content and clean text while keeping table rows intact."""
+    lines = section.split('\n')
     processed = []
     current_row = []  # Store parts of the same table row
 
     for line in lines:
-        line = line.strip().lower()  # Convert to lowercase and strip whitespace
+        line = line.strip()
         if "|" in line:  # Handle table-like rows
             # Split the row into fields and join them into a single readable sentence
             fields = [field.strip().replace(':', ' is') for field in line.split('|')]

@@ -5,7 +5,7 @@ import os
 
 
 # Directory paths
-input_dir = 'data-preperation/datasets/raw-datasets'
+input_dir = 'data-preperation/datasets/text-raw-datasets'
 output_dir = 'data-preperation/datasets/text-extracted'
 
 

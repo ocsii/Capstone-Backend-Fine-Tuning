@@ -164,96 +164,77 @@ notes:. 1. a student fails a course that does not have the requirement to pass b
 
 **turnitin guide**. 1) go to http://www.turnitin.com/ and click on the “create account” button.. 2) select “student.”. 3) enter all the details. your lecturer will give you the class id and the enrollment password. please use your imail address for the registration.. 4) log into your account; you should be able to see the class that you have enrolled in. if you want to enroll in another class, just click on the “enroll in a class” tab.. 5) again, enter the class id and the enrollment password given by your lecturer.. 6) you should be able to see the new class that you have enrolled in. if you want to submit an assignment for a particular class, you just have to click on the class name.. 7) you should be able to see the assignment that you’re required to submit. click on the “submit” button.. 8) select the file that you would like to submit..
 
-### Pre-requisite list for BSc (Hons) in Computer Science - **Name of Subject:** MTH1114: Computer Mathematics, **Credit Hour:** 4, **Pre-requisite:** Nil, **Calculated in Honours System:** No, **Compulsory Pass for Both FE and CW:** Yes  
+### pre-requisite list for bsc (hons) in computer science - **name of subject:** mth1114: computer mathematics, **credit hour:** 4, **pre-requisite:** nil, **calculated in honours system:** no, **compulsory pass for both fe and cw:** yes  
 
-### Pre-requisite list for BSc (Hons) in Computer Science - **Name of Subject:** ENG1044: English for Computer Technology Studies, **Credit Hour:** 4, **Pre-requisite:** Nil, **Calculated in Honours System:** No, **Compulsory Pass for Both FE and CW:** No  
+### pre-requisite list for bsc (hons) in computer science - **name of subject:** eng1044: english for computer technology studies, **credit hour:** 4, **pre-requisite:** nil, **calculated in honours system:** no, **compulsory pass for both fe and cw:** no  
 
-### Pre-requisite list for BSc (Hons) in Computer Science - **Name of Subject:** SEG1201: Database Fundamentals, **Credit Hour:** 4, **Pre-requisite:** Nil, **Calculated in Honours System:** No, **Compulsory Pass for Both FE and CW:** Yes  
+### pre-requisite list for bsc (hons) in computer science - **name of subject:** seg1201: database fundamentals, **credit hour:** 4, **pre-requisite:** nil, **calculated in honours system:** no, **compulsory pass for both fe and cw:** yes  
 
-### Pre-requisite list for BSc (Hons) in Computer Science - **Name of Subject:** PRG1203: Object Oriented Programming Fundamentals, **Credit Hour:** 4, **Pre-requisite:** CSC1024 Programming Principles, **Calculated in Honours System:** No, **Compulsory Pass for Both FE and CW:** Yes  
+### pre-requisite list for bsc (hons) in computer science - **name of subject:** prg1203: object oriented programming fundamentals, **credit hour:** 4, **pre-requisite:** csc1024 programming principles, **calculated in honours system:** no, **compulsory pass for both fe and cw:** yes  
 
-### Pre-requisite list for BSc (Hons) in Computer Science - **Name of Subject:** CSC1202: Computer Organisation, **Credit Hour:** 4, **Pre-requisite:** Nil, **Calculated in Honours System:** No, **Compulsory Pass for Both FE and CW:** Yes  
+### pre-requisite list for bsc (hons) in computer science - **name of subject:** csc1202: computer organisation, **credit hour:** 4, **pre-requisite:** nil, **calculated in honours system:** no, **compulsory pass for both fe and cw:** yes  
 
-### Pre-requisite list for BSc (Hons) in Computer Science - **Name of Subject:** WEB1201: Web Fundamentals, **Credit Hour:** 4, **Pre-requisite:** Nil, **Calculated in Honours System:** No, **Compulsory Pass for Both FE and CW:** Yes  
+### pre-requisite list for bsc (hons) in computer science - **name of subject:** web1201: web fundamentals, **credit hour:** 4, **pre-requisite:** nil, **calculated in honours system:** no, **compulsory pass for both fe and cw:** yes  
 
-### Pre-requisite list for BSc (Hons) in Computer Science - **Name of Subject:** CSC1024: Programming Principles, **Credit Hour:** 4, **Pre-requisite:** Nil, **Calculated in Honours System:** No, **Compulsory Pass for Both FE and CW:** Yes  
+### pre-requisite list for bsc (hons) in computer science - **name of subject:** csc1024: programming principles, **credit hour:** 4, **pre-requisite:** nil, **calculated in honours system:** no, **compulsory pass for both fe and cw:** yes  
 
-### Pre-requisite list for BSc (Hons) in Computer Science - **Name of Subject:** NET1014: Networking Principles, **Credit Hour:** 4, **Pre-requisite:** Nil, **Calculated in Honours System:** No, **Compulsory Pass for Both FE and CW:** Yes  
+### pre-requisite list for bsc (hons) in computer science - **name of subject:** net1014: networking principles, **credit hour:** 4, **pre-requisite:** nil, **calculated in honours system:** no, **compulsory pass for both fe and cw:** yes  
 
-### Pre-requisite list for BSc (Hons) in Computer Science - **Name of Subject:** OSS1014: Operating Systems Fundamentals, **Credit Hour:** 4, **Pre-requisite:** Nil, **Calculated in Honours System:** No, **Compulsory Pass for Both FE and CW:** Yes  
+### pre-requisite list for bsc (hons) in computer science - **name of subject:** oss1014: operating systems fundamentals, **credit hour:** 4, **pre-requisite:** nil, **calculated in honours system:** no, **compulsory pass for both fe and cw:** yes  
 
-### Pre-requisite list for BSc (Hons) in Computer Science - **Name of Subject:** MPU3112: Penghayatan Etika dan Peradaban, **Credit Hour:** 2, **Pre-requisite:** Nil, **Calculated in Honours System:** No, **Compulsory Pass for Both FE and CW:** No  
+### pre-requisite list for bsc (hons) in computer science - **name of subject:** mpu3112: penghayatan etika dan peradaban, **credit hour:** 2, **pre-requisite:** nil, **calculated in honours system:** no, **compulsory pass for both fe and cw:** no  
 
-### Pre-requisite list for BSc (Hons) in Computer Science - **Name of Subject:** MPU3142: Malay Language for Communication 2 (Bahasa Melayu 2), **Credit Hour:** 2, **Pre-requisite:** Nil, **Calculated in Honours System:** No, **Compulsory Pass for Both FE and CW:** No  
+### pre-requisite list for bsc (hons) in computer science - **name of subject:** mpu3142: malay language for communication 2 (bahasa melayu 2), **credit hour:** 2, **pre-requisite:** nil, **calculated in honours system:** no, **compulsory pass for both fe and cw:** no  
 
-### Pre-requisite list for BSc (Hons) in Computer Science - **Name of Subject:** MPU3122: Falsafah dan Isu Semasa, **Credit Hour:** 2, **Pre-requisite:** Nil, **Calculated in Honours System:** No, **Compulsory Pass for Both FE and CW:** No  
+### pre-requisite list for bsc (hons) in computer science - **name of subject:** mpu3122: falsafah dan isu semasa, **credit hour:** 2, **pre-requisite:** nil, **calculated in honours system:** no, **compulsory pass for both fe and cw:** no  
 
-### Pre-requisite list for BSc (Hons) in Computer Science - **Name of Subject:** MPU3132: Appreciation of Ethics and Civilisation, **Credit Hour:** 2, **Pre-requisite:** Nil, **Calculated in Honours System:** No, **Compulsory Pass for Both FE and CW:** No  
+### pre-requisite list for bsc (hons) in computer science - **name of subject:** mpu3132: appreciation of ethics and civilisation, **credit hour:** 2, **pre-requisite:** nil, **calculated in honours system:** no, **compulsory pass for both fe and cw:** no  
 
-### Pre-requisite list for BSc (Hons) in Computer Science - **Name of Subject:** CSC2103: Data Structure & Algorithms, **Credit Hour:** 4, **Pre-requisite:** CSC1024 Programming Principles, **Calculated in Honours System:** Yes, **Compulsory Pass for Both FE and CW:** Yes  
+### pre-requisite list for bsc (hons) in computer science - **name of subject:** csc2103: data structure & algorithms, **credit hour:** 4, **pre-requisite:** csc1024 programming principles, **calculated in honours system:** yes, **compulsory pass for both fe and cw:** yes  
 
-### Pre-requisite list for BSc (Hons) in Computer Science - **Name of Subject:** PRG2104: Object Oriented Programming, **Credit Hour:** 4, **Pre-requisite:** PRG1203 Object Oriented Programming Fundamentals, **Calculated in Honours System:** Yes, **Compulsory Pass for Both FE and CW:** Yes  
+### pre-requisite list for bsc (hons) in computer science - **name of subject:** prg2104: object oriented programming, **credit hour:** 4, **pre-requisite:** prg1203 object oriented programming fundamentals, **calculated in honours system:** yes, **compulsory pass for both fe and cw:** yes  
 
-### Pre-requisite list for BSc (Hons) in Computer Science - **Name of Subject:** SEG2202: Software Engineering, **Credit Hour:** 4, **Pre-requisite:** PRG1203 Object Oriented Programming Fundamentals, **Calculated in Honours System:** Yes, **Compulsory Pass for Both FE and CW:** Yes  
+### pre-requisite list for bsc (hons) in computer science - **name of subject:** seg2202: software engineering, **credit hour:** 4, **pre-requisite:** prg1203 object oriented programming fundamentals, **calculated in honours system:** yes, **compulsory pass for both fe and cw:** yes  
 
-### Pre-requisite list for BSc (Hons) in Computer Science - **Name of Subject:** ENT2012: Entrepreneurial Mindset and Skills, **Credit Hour:** 2, **Pre-requisite:** Nil, **Calculated in Honours System:** Yes, **Compulsory Pass for Both FE and CW:** No  
+### pre-requisite list for bsc (hons) in computer science - **name of subject:** ent2012: entrepreneurial mindset and skills, **credit hour:** 2, **pre-requisite:** nil, **calculated in honours system:** yes, **compulsory pass for both fe and cw:** no  
 
-### Pre-requisite list for BSc (Hons) in Computer Science - **Name of Subject:** ENG2044: Communication Skills, **Credit Hour:** 4, **Pre-requisite:** Nil, **Calculated in Honours System:** Yes, **Compulsory Pass for Both FE and CW:** No  
+### pre-requisite list for bsc (hons) in computer science - **name of subject:** eng2044: communication skills, **credit hour:** 4, **pre-requisite:** nil, **calculated in honours system:** yes, **compulsory pass for both fe and cw:** no  
 
-### Pre-requisite list for BSc (Hons) in Computer Science - **Name of Subject:** MPU3332: Integrity and Anti-Corruption (Kiar), **Credit Hour:** 2, **Pre-requisite:** Nil, **Calculated in Honours System:** No, **Compulsory Pass for Both FE and CW:** No  
+### pre-requisite list for bsc (hons) in computer science - **name of subject:** mpu3332: integrity and anti-corruption (kiar), **credit hour:** 2, **pre-requisite:** nil, **calculated in honours system:** no, **compulsory pass for both fe and cw:** no  
 
-### Pre-requisite list for BSc (Hons) in Computer Science - **Name of Subject:** MPU3212: Critical Thinking, **Credit Hour:** 2, **Pre-requisite:** Nil, **Calculated in Honours System:** No, **Compulsory Pass for Both FE and CW:** No  
+### pre-requisite list for bsc (hons) in computer science - **name of subject:** mpu3212: critical thinking, **credit hour:** 2, **pre-requisite:** nil, **calculated in honours system:** no, **compulsory pass for both fe and cw:** no  
 
-### Pre-requisite list for BSc (Hons) in Computer Science - **Name of Subject:** MPU3232: Bahasa Kebangsaan A, **Credit Hour:** 2, **Pre-requisite:** Nil, **Calculated in Honours System:** No, **Compulsory Pass for Both FE and CW:** No  
+### pre-requisite list for bsc (hons) in computer science - **name of subject:** mpu3232: bahasa kebangsaan a, **credit hour:** 2, **pre-requisite:** nil, **calculated in honours system:** no, **compulsory pass for both fe and cw:** no  
 
-### Pre-requisite list for BSc (Hons) in Computer Science - **Name of Subject:** BIS2102: Information Systems Analysis & Design, **Credit Hour:** 4, **Pre-requisite:** Nil, **Calculated in Honours System:** Yes, **Compulsory Pass for Both FE and CW:** Yes  
+### pre-requisite list for bsc (hons) in computer science - **name of subject:** bis2102: information systems analysis & design, **credit hour:** 4, **pre-requisite:** nil, **calculated in honours system:** yes, **compulsory pass for both fe and cw:** yes  
 
-### Pre-requisite list for BSc (Hons) in Computer Science - **Name of Subject:** BIS2216: Data Mining and Knowledge Discovery Fundamentals, **Credit Hour:** 4, **Pre-requisite:** Nil, **Calculated in Honours System:** Yes, **Compulsory Pass for Both FE and CW:** Yes  
+### pre-requisite list for bsc (hons) in computer science - **name of subject:** bis2216: data mining and knowledge discovery fundamentals, **credit hour:** 4, **pre-requisite:** nil, **calculated in honours system:** yes, **compulsory pass for both fe and cw:** yes  
 
-### Pre-requisite list for BSc (Hons) in Computer Science - **Name of Subject:** CSC2014: Digital Image Processing, **Credit Hour:** 4, **Pre-requisite:** Nil, **Calculated in Honours System:** Yes, **Compulsory Pass for Both FE and CW:** Yes  
+### pre-requisite list for bsc (hons) in computer science - **name of subject:** csc2014: digital image processing, **credit hour:** 4, **pre-requisite:** nil, **calculated in honours system:** yes, **compulsory pass for both fe and cw:** yes  
 
-### Pre-requisite list for BSc (Hons) in Computer Science - **Name of Subject:** CSC2044: Concurrent Programming, **Credit Hour:** 4, **Pre-requisite:** PRG1203, PRG2104 Object Oriented Programming Fundamentals, **Calculated in Honours System:** Yes, **Compulsory Pass for Both FE and CW:** Yes  
+### pre-requisite list for bsc (hons) in computer science - **name of subject:** csc2044: concurrent programming, **credit hour:** 4, **pre-requisite:** prg1203, prg2104 object oriented programming fundamentals, **calculated in honours system:** yes, **compulsory pass for both fe and cw:** yes  
 
-### Pre-requisite list for BSc (Hons) in Computer Science - **Name of Subject:** CSC2074: Mobile Application Development, **Credit Hour:** 4, **Pre-requisite:** PRG1203 Object Oriented Programming Fundamentals, **Calculated in Honours System:** Yes, **Compulsory Pass for Both FE and CW:** Yes  
+### pre-requisite list for bsc (hons) in computer science - **name of subject:** csc2074: mobile application development, **credit hour:** 4, **pre-requisite:** prg1203 object oriented programming fundamentals, **calculated in honours system:** yes, **compulsory pass for both fe and cw:** yes  
 
-### Pre-requisite list for BSc (Hons) in Computer Science - **Name of Subject:** NET2102: Data Communications, **Credit Hour:** 4, **Pre-requisite:** Nil, **Calculated in Honours System:** Yes, **Compulsory Pass for Both FE and CW:** Yes  
+### pre-requisite list for bsc (hons) in computer science - **name of subject:** net2102: data communications, **credit hour:** 4, **pre-requisite:** nil, **calculated in honours system:** yes, **compulsory pass for both fe and cw:** yes  
 
-### Pre-requisite list for BSc (Hons) in Computer Science - **Name of Subject:** NET2201: Computer Networks, **Credit Hour:** 4, **Pre-requisite:** Nil, **Calculated in Honours System:** Yes, **Compulsory Pass for Both FE and CW:** Yes  
+### pre-requisite list for bsc (hons) in computer science - **name of subject:** net2201: computer networks, **credit hour:** 4, **pre-requisite:** nil, **calculated in honours system:** yes, **compulsory pass for both fe and cw:** yes  
 
-### Pre-requisite list for BSc (Hons) in Computer Science - **Name of Subject:** PRG2205: Programming Languages, **Credit Hour:** 4, **Pre-requisite:** PRG1203 Object Oriented Programming Fundamentals, **Calculated in Honours System:** Yes, **Compulsory Pass for Both FE and CW:** Yes  
+### pre-requisite list for bsc (hons) in computer science - **name of subject:** prg2205: programming languages, **credit hour:** 4, **pre-requisite:** prg1203 object oriented programming fundamentals, **calculated in honours system:** yes, **compulsory pass for both fe and cw:** yes  
 
-### Pre-requisite list for BSc (Hons) in Computer Science - **Name of Subject:** PRG2214: Functional Programming Principles, **Credit Hour:** 4, **Pre-requisite:** CSC1024, MTH1114, **Calculated in Honours System:** Yes, **Compulsory Pass for Both FE and CW:** Yes  
+### pre-requisite list for bsc (hons) in computer science - **name of subject:** prg2214: functional programming principles, **credit hour:** 4, **pre-requisite:** csc1024, mth1114, **calculated in honours system:** yes, **compulsory pass for both fe and cw:** yes  
 
-### Pre-requisite list for BSc (Hons) in Computer Science - **Name of Subject:** SEG2102: Database Management Systems, **Credit Hour:** 4, **Pre-requisite:** SEG1201 Database Fundamentals, **Calculated in Honours System:** Yes, **Compulsory Pass for Both FE and CW:** Yes  
+### pre-requisite list for bsc (hons) in computer science - **name of subject:** csc3034: artificial intelligence, **credit hour:** 4, **pre-requisite:** csc2103 data structure and algorithms, **calculated in honours system:** yes, **compulsory pass for both fe and cw:** yes  
 
-### Pre-requisite list for BSc (Hons) in Computer Science - **Name of Subject:** SWA2124: Social and Web Analytics, **Credit Hour:** 4, **Pre-requisite:** CSC1024 Programming Principles, **Calculated in Honours System:** Yes, **Compulsory Pass for Both FE and CW:** Yes  
+### pre-requisite list for bsc (hons) in computer science - **name of subject:** csc3044: mobile robotics, **credit hour:** 4, **pre-requisite:** csc2103 data structure and algorithms, **calculated in honours system:** yes, **compulsory pass for both fe and cw:** yes  
 
-### Pre-requisite list for BSc (Hons) in Computer Science - **Name of Subject:** MPU3422: Community Service for Planetary Health, **Credit Hour:** 2, **Pre-requisite:** Nil, **Calculated in Honours System:** No, **Compulsory Pass for Both FE and CW:** No  
+### pre-requisite list for bsc (hons) in computer science - **name of subject:** bis4101: advanced information systems, **credit hour:** 4, **pre-requisite:** bis2102 information systems analysis & design, **calculated in honours system:** yes, **compulsory pass for both fe and cw:** yes  
 
-### Pre-requisite list for BSc (Hons) in Computer Science - **Name of Subject:** CSC3024: Human Computer Interaction, **Credit Hour:** 4, **Pre-requisite:** WEB1201 Web Fundamentals, **Calculated in Honours System:** Yes, **Compulsory Pass for Both FE and CW:** Yes  
+### pre-requisite list for bsc (hons) in computer science - **name of subject:** bis4102: information systems project, **credit hour:** 4, **pre-requisite:** bis2102 information systems analysis & design, **calculated in honours system:** yes, **compulsory pass for both fe and cw:** yes  
 
-### Pre-requisite list for BSc (Hons) in Computer Science - **Name of Subject:** CSC3206: Artificial Intelligence, **Credit Hour:** 4, **Pre-requisite:** CSC1024 Programming Principles, **Calculated in Honours System:** Yes, **Compulsory Pass for Both FE and CW:** Yes  
+### pre-requisite list for bsc (hons) in computer science - **name of subject:** seg4004: project management, **credit hour:** 4, **pre-requisite:** nil, **calculated in honours system:** yes, **compulsory pass for both fe and cw:** yes  
 
-### Pre-requisite list for BSc (Hons) in Computer Science - **Name of Subject:** NET3204: Distributed Systems, **Credit Hour:** 4, **Pre-requisite:** PRG2104 Object Oriented Programming, **Calculated in Honours System:** Yes, **Compulsory Pass for Both FE and CW:** Yes  
-
-### Pre-requisite list for BSc (Hons) in Computer Science - **Name of Subject:** SEG3203: Internship, **Credit Hour:** 6, **Pre-requisite:** ENG2044 Communication Skills, Completion of All Year 2 Subjects, **Calculated in Honours System:** No, **Compulsory Pass for Both FE and CW:** No  
-
-### Pre-requisite list for BSc (Hons) in Computer Science - **Name of Subject:** PRJ3213: Capstone Project 1, **Credit Hour:** 3, **Pre-requisite:** ENG1044, PRG2104, **Calculated in Honours System:** Yes, **Compulsory Pass for Both FE and CW:** No  
-
-### Pre-requisite list for BSc (Hons) in Computer Science - **Name of Subject:** PRJ3223: Capstone Project 2, **Credit Hour:** 3, **Pre-requisite:** PRJ3213 Capstone Project 1, **Calculated in Honours System:** Yes, **Compulsory Pass for Both FE and CW:** No  
-
-### Pre-requisite list for BSc (Hons) in Computer Science - **Name of Subject:** CSC3064: Database Engineering, **Credit Hour:** 4, **Pre-requisite:** SEG2102 Database Management Systems, **Calculated in Honours System:** Yes, **Compulsory Pass for Both FE and CW:** Yes  
-
-### Pre-requisite list for BSc (Hons) in Computer Science - **Name of Subject:** CSC3209: Software Architecture and Design Patterns, **Credit Hour:** 4, **Pre-requisite:** PRG2104, SEG2202 Software Engineering, **Calculated in Honours System:** Yes, **Compulsory Pass for Both FE and CW:** Yes  
-
-### Pre-requisite list for BSc (Hons) in Computer Science - **Name of Subject:** CSC3014: Computer Vision, **Credit Hour:** 4, **Pre-requisite:** CSC2014 Digital Image Processing, **Calculated in Honours System:** Yes, **Compulsory Pass for Both FE and CW:** Yes  
-
-### Pre-requisite list for BSc (Hons) in Computer Science - **Name of Subject:** CSC3034: Computational Intelligence, **Credit Hour:** 4, **Pre-requisite:** CSC3206 Artificial Intelligence (Co-req), **Calculated in Honours System:** Yes, **Compulsory Pass for Both FE and CW:** Yes  
-
-### Pre-requisite list for BSc (Hons) in Computer Science - **Name of Subject:** CSC3044: Computer Security, **Credit Hour:** , **Pre-requisite:** , **Calculated in Honours System:** , **Compulsory Pass for Both FE and CW:**  
-
-* Information is correct at the time of printing. All information is subject to change.  
-* Subjects listed are based on BSc (Hons) in Computer Science latest programme structure. For subjects not listed in this list, please refer to your programme coordinator.  
+### pre-requisite list for bsc (hons) in computer science - **name of subject:** seg4104: final year project, **credit hour:** 4, **pre-requisite:** nil, **calculated in honours system:** yes, **compulsory pass for both fe and cw:** yes  
  
 
 

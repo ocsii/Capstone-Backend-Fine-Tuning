@@ -1560,7 +1560,6 @@ Sunway University advocates the Bring Your Own Device (BYOD) environment. All st
 
 Pre-requisite List for BSc (Hons) in Computer Science
 
-Compulsory Calculated Subject Credit Pass for Name of Subject Pre-requisite in Honours Code Hour
 
 MTH1114: Computer Mathematics, Credit Hour: 4, Pre-Requisite: Nil, Calculated in Honours System: NO, Compulsory Pass for both FE and CW: YES
 ENG1044: English for Computer Technology Studies, Credit Hour: 4, Pre-Requisite: Nil, Calculated in Honours System: NO, Compulsory Pass for both FE and CW: NO

@@ -11,7 +11,7 @@ import os
 sentence_model = SentenceTransformer('all-MiniLM-L6-v2')
 cross_encoder = CrossEncoder('cross-encoder/ms-marco-MiniLM-L-6-v2')
 qa_pipeline = pipeline("question-answering", model="distilbert-base-cased-distilled-squad")
-index = faiss.read_index("data-preperation/datasets/text-faiss/bcs-handbook-manual.faiss")
+index = faiss.read_index("data-preperation/datasets/text-faiss/combined.faiss")
 
 def query_faiss_index(query, top_k=10):
     """Search the FAISS index for the top-k closest matches."""
@@ -42,7 +42,7 @@ def generate_response(query):
     distances, indices = query_faiss_index(query)
 
     # Step 2: Retrieve sections from the preprocessed file
-    with open('data-preperation/datasets/text-manually-updated/bcs-handbook-manual.txt', 'r', encoding='utf-8') as f:
+    with open('data-preperation/datasets/text-manually-updated/combined.txt', 'r', encoding='utf-8') as f:
         sections = [line.strip() for line in f if line.strip()]
 
     retrieved_sections = [sections[idx] for idx in indices[0]]
@@ -79,8 +79,7 @@ def call_openai_gpt(query, top_sections):
             {"role": "system", "content": (
                 "You are a helpful assistant. Your job is to answer the query using the provided sections. "
                 "Always search for the answer in **Section 1** first. If the answer is not found there, then refer to Section 2. "
-                "If still not found, refer to Section 3. If no answer is found in any section, respond: 'Sorry, the answer was not found in the handbook.' "
-                "If the answer cannot be found in any section, answer based on closest match from teh text."
+                "If still not found, refer to Section 3. If the answer cannot be found in any section, answer based on closest match from the text."
                 "After that, specify which section you got the answer from for debugging"
 
             )},
@@ -99,7 +98,7 @@ def call_openai_gpt(query, top_sections):
 def generate_response_with_gpt(query):
     # Query FAISS and re-rank sections
     distances, indices = query_faiss_index(query)
-    with open('data-preperation/datasets/text-manually-updated/bcs-handbook-manual.txt', 'r', encoding='utf-8') as f:
+    with open('data-preperation/datasets/text-manually-updated/combined.txt', 'r', encoding='utf-8') as f:
         sections = [line.strip() for line in f if line.strip()]
     retrieved_sections = [sections[idx] for idx in indices[0]]
     ranked_sections = re_rank_results(query, retrieved_sections)
@@ -114,8 +113,14 @@ def generate_response_with_gpt(query):
 
     return f"Answer: {gpt_response}"
 
+
+
 # Example usage
 if __name__ == "__main__":
-    query = "What are all year 3 electives?"
+
+
+
+
+    query = "What is the location of sunway pyramid?"
     response = generate_response_with_gpt(query)
     print(response)

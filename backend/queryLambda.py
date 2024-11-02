@@ -3,6 +3,9 @@ import faiss
 import numpy as np
 import requests
 
+from fastapi import FastAPI
+from fastapi.middleware.cors import CORSMiddleware
+from pydantic import BaseModel
 
 
 # Step 1: Load models and FAISS index
@@ -11,6 +14,24 @@ cross_encoder = CrossEncoder('cross-encoder/ms-marco-MiniLM-L-6-v2')
 index = faiss.read_index("C:/Users/chris/Desktop/CP2/Fine Tuning BERT/backend/data-preparation/datasets/text-faiss/combined.faiss")
 LAMBDA_API_URL = "https://wvleewwlcmkv6yjxhzyl27fxjq0qzmws.lambda-url.ap-southeast-1.on.aws/"
 
+app = FastAPI()
+
+# CORS settings for local setup
+app.add_middleware(
+    CORSMiddleware,
+    allow_origins=["*"],  
+    allow_credentials=True,
+    allow_methods=["*"],  # Allows all HTTP methods
+    allow_headers=["*"],  # Allows all headers
+)
+
+class Query(BaseModel):
+    question: str
+
+@app.post("/query")
+async def query_faiss(query: Query):
+    response = generate_response_with_gpt(query.question)
+    return {"Answer: ": response}
 
 
 def query_faiss_index(query, top_k=10):
@@ -59,7 +80,7 @@ def generate_response_with_gpt(query):
     top_sections = [section for _, section in ranked_sections[:3]]
     gpt_response = call_openai_api(query, top_sections)
 
-    return f"Answer: {gpt_response}"  # Return only the answer content
+    return f"Answer: {gpt_response}" 
 
 # Example usage
 if __name__ == "__main__":

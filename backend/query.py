@@ -8,8 +8,7 @@ import os
 # Step 1: Load models and FAISS index
 sentence_model = SentenceTransformer('all-MiniLM-L6-v2')
 cross_encoder = CrossEncoder('cross-encoder/ms-marco-MiniLM-L-6-v2')
-index = faiss.read_index("C:/Users/chris/Desktop/CP2/Fine Tuning BERT/backend/data-preparation/datasets/text-faiss/combined.faiss")
-
+index = faiss.read_index("C:/Users/chris/Desktop/CP2/Fine Tuning BERT/backend/datasets/combined.faiss")
 
 def query_faiss_index(query, top_k=10):
     """Search the FAISS index for the top-k closest matches."""
@@ -58,8 +57,7 @@ def call_openai_gpt(query, top_sections):
 def generate_response_with_gpt(query):
     # Query FAISS and re-rank sections
     distances, indices = query_faiss_index(query)
-    
-    with open('C:/Users/chris/Desktop/CP2/Fine Tuning BERT/backend/data-preparation/datasets/text-manually-updated/combined.txt', 'r', encoding='utf-8') as f:
+    with open('C:/Users/chris/Desktop/CP2/Fine Tuning BERT/backend/datasets/combined.txt', 'r', encoding='utf-8') as f:
         sections = [line.strip() for line in f if line.strip()]
     
     retrieved_sections = [sections[idx] for idx in indices[0]]

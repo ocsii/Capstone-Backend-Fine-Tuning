@@ -1,0 +1,78 @@
+/* Reset styles to remove scroll and white space */
+html, body {
+    margin: 0;
+    padding: 0;
+    height: 100%;
+    overflow: hidden; /* Prevent scrolling */
+    background-color: #1e1e1e; /* Dark grey background */
+  }
+  
+  /* Ensure the app container fills the screen */
+  .app-container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    width: 100vw; /* Ensure it stretches across the entire screen */
+    box-sizing: border-box; /* Include padding and border in width/height */
+  }
+  
+  /* Title styling */
+  .chat-title h1 {
+    color: white;
+    margin-bottom: 20px;
+    font-family: 'Arial', sans-serif;
+    text-align: center;
+  }
+  
+  /* Input and button styling */
+  .chat-input-container {
+    display: flex;
+    width: 60%;
+    max-width: 800px;
+    position: relative;
+  }
+  
+  /* Input field */
+  .chat-input {
+    width: 100%;
+    padding: 15px 60px 15px 15px; /* Add space for the button inside */
+    border: 1px solid #555;
+    border-radius: 30px; /* Rounded corners */
+    background-color: #2d2d2d;
+    color: white;
+    font-size: 16px;
+    outline: none;
+  }
+  
+  /* Arrow button inside the input */
+  .chat-button {
+    position: absolute;
+    right: 10px;
+    top: 50%;
+    transform: translateY(-50%);
+    background-color: #42a5f5; /* Light blue */
+    border: none;
+    border-radius: 50%;
+    padding: 12px;
+    cursor: pointer;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    transition: background-color 0.3s ease;
+  }
+  
+  /* Hover effect */
+  .chat-button:hover {
+    background-color: #2196f3;
+  }
+  
+  /* Arrow icon inside the button */
+  .chat-button svg {
+    padding: 5px;
+    fill: white;
+    width: 15px;
+    height: 15px;
+  }
+  

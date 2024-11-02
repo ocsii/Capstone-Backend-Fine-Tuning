@@ -3,15 +3,6 @@ import os
 
 # Use PDF plumber to extract everything (tables, graphs (most) and text) into plain text format
 
-
-# Directory paths
-input_dir = 'data-preperation/datasets/text-raw-datasets'
-output_dir = 'data-preperation/datasets/text-extracted'
-
-
-# Make sure dir exists
-os.makedirs(output_dir, exist_ok = True)
-
 # Separate the landscape pdfs into two sections because pdfplumber by default 
 # reads from left to right, disregarding 
 def extract_text_landscape(pdf):
@@ -21,6 +12,7 @@ def extract_text_landscape(pdf):
 
         # Ensure is landscape
         if page.width > page.height:
+            
             # Separate into two sections
             left_section = (0, 0, page.width / 2 , page.height)
             right_box = (page.width / 2, 0, page.width, page.height)
@@ -80,5 +72,13 @@ def extract_text (input_dir, output_dir):
 
 
 if __name__ == "__main__":
+
+    # Directory paths
+    input_dir = 'data-preparation/datasets/text-raw-datasets'
+    output_dir = 'data-preparation/datasets/text-extracted'
+
+    # Make sure dir exists
+    os.makedirs(output_dir, exist_ok = True)
+
     extract_text(input_dir, output_dir)
     print("Done extraction")

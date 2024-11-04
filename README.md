@@ -10,8 +10,6 @@ This project is a **Student Query Answering System** designed to provide accurat
 - **Frontend**: React, connecting to the backend via API calls.
 - **Serverless GPT Integration**: AWS Lambda function handling OpenAI GPT API requests.
 
----
-
 This project contains a **Backend API**, **Data Preparation scripts**, and a **Frontend React application**. Follow the instructions below to set up each component.
 
 ## Table of Contents

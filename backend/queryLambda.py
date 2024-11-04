@@ -55,7 +55,6 @@ def re_rank_results(query, retrieved_sections):
     pairs = [[query, section] for section in retrieved_sections]
     scores = cross_encoder.predict(pairs)
     
-    # Sort sections by score (descending) and return all of them with scores
     ranked_sections = sorted(zip(scores, retrieved_sections), key=lambda x: x[0], reverse=True)
     
     return ranked_sections
@@ -94,7 +93,6 @@ def generate_response_with_gpt(query):
 
     return f"Answer: {gpt_response}" 
 
-# Example usage
 if __name__ == "__main__":
 
     query = "What is the criteria for first class honors"

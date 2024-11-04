@@ -8,6 +8,8 @@ from fastapi import FastAPI
 from fastapi.middleware.cors import CORSMiddleware
 from pydantic import BaseModel
 
+""" This is the backedend used to host on """
+
 
 base_path = os.path.dirname(os.path.abspath(__file__))
 faiss_path = os.path.join(base_path, 'datasets/combined.faiss')
@@ -18,8 +20,6 @@ sentence_model = SentenceTransformer('all-MiniLM-L6-v2')
 cross_encoder = CrossEncoder('cross-encoder/ms-marco-MiniLM-L-6-v2')
 index = faiss.read_index(faiss_path)
 LAMBDA_API_URL = "https://wvleewwlcmkv6yjxhzyl27fxjq0qzmws.lambda-url.ap-southeast-1.on.aws/"
-
-
 
 app = FastAPI()
 
@@ -52,7 +52,6 @@ def re_rank_results(query, retrieved_sections):
     pairs = [[query, section] for section in retrieved_sections]
     scores = cross_encoder.predict(pairs)
     
-    # Sort sections by score (descending) and return all of them with scores
     ranked_sections = sorted(zip(scores, retrieved_sections), key=lambda x: x[0], reverse=True)
     
     return ranked_sections
@@ -91,7 +90,6 @@ def generate_response_with_gpt(query):
 
     return f"Answer: {gpt_response}" 
 
-# Example usage
 if __name__ == "__main__":
 
     query = "What is the criteria for first class honors"

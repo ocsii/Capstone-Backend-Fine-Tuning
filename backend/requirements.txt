@@ -3,5 +3,6 @@ uvicorn
 sentence-transformers
 faiss-cpu
 requests
+numpy
 
 gunicorn

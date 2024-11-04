@@ -1,5 +1,17 @@
 # Capstone - Fine Tuning Model on School Handbook Data: Fullstack Web Applicaation
 
+## Project Overview
+
+This project is a **Student Query Answering System** designed to provide accurate and concise responses to common student questions by leveraging a semi-fine-tuned language model. The goal is to simplify information retrieval from the school’s student handbook and other resources. It works by matching a student’s query to relevant sections in the handbook and generating an answer using GPT.
+
+### Technical Stack
+
+- **Backend**: FastAPI, FAISS, SentenceTransformers, and CrossEncoder models.
+- **Frontend**: React, connecting to the backend via API calls.
+- **Serverless GPT Integration**: AWS Lambda function handling OpenAI GPT API requests.
+
+---
+
 This project contains a **Backend API**, **Data Preparation scripts**, and a **Frontend React application**. Follow the instructions below to set up each component.
 
 ## Table of Contents

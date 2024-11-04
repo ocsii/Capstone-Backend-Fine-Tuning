@@ -2,25 +2,24 @@ from sentence_transformers import SentenceTransformer, CrossEncoder
 import faiss
 import numpy as np
 import requests
-
+import os
 
 from fastapi import FastAPI
 from fastapi.middleware.cors import CORSMiddleware
 from pydantic import BaseModel
 
-import logging
 
-# Configure logging
-logging.basicConfig(level=logging.INFO)  # You can change the level to DEBUG for more detailed output
-logger = logging.getLogger(__name__)
-
-
+base_path = os.path.dirname(os.path.abspath(__file__))
+faiss_path = os.path.join(base_path, 'datasets/combined.faiss')
+txt_path = os.path.join(base_path, 'datasets/combined.txt')
 
 # Step 1: Load models and FAISS index
 sentence_model = SentenceTransformer('all-MiniLM-L6-v2')
 cross_encoder = CrossEncoder('cross-encoder/ms-marco-MiniLM-L-6-v2')
-index = faiss.read_index("datasets/combined.faiss")
+index = faiss.read_index(faiss_path)
 LAMBDA_API_URL = "https://wvleewwlcmkv6yjxhzyl27fxjq0qzmws.lambda-url.ap-southeast-1.on.aws/"
+
+
 
 app = FastAPI()
 
@@ -39,8 +38,6 @@ class Query(BaseModel):
 @app.post("/query")
 async def query_faiss(query: Query):
     response = generate_response_with_gpt(query.question)
-    logger.info(response)
-    print(response)
     return {"Answer: ": response}
     
 
@@ -82,7 +79,7 @@ def generate_response_with_gpt(query):
     # Query FAISS and re-rank sections
     distances, indices = query_faiss_index(query)
     
-    with open('datasets/combined.txt', 'r', encoding='utf-8') as f:
+    with open(txt_path, 'r', encoding='utf-8') as f:
         sections = [line.strip() for line in f if line.strip()]
     
     retrieved_sections = [sections[idx] for idx in indices[0]]

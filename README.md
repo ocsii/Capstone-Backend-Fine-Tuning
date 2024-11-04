@@ -18,7 +18,7 @@ This project contains a **Backend API**, **Data Preparation scripts**, and a **F
 
 To begin, clone this repository using Visual Studio Code (VS Code) or your preferred IDE.
 
-1. **Download and Install VS Code**: [Download Link](https://code.visualstudio.com/download)
+1. **Download and Install VS Code**: <a href="https://code.visualstudio.com/download" target="_blank">Download Link</a>
 
 2. **Clone the Repository**:
 
@@ -36,10 +36,9 @@ To begin, clone this repository using Visual Studio Code (VS Code) or your prefe
 
 Make sure you have the following installed before proceeding:
 
-- **Python** (version 3.8 or higher): [Download Link](https://www.python.org/downloads/)
-  - Make sure pip is installed (and included in PATH variables)
-- **Node.js** (includes npm): [Download Link](https://nodejs.org/)
-- **Git** (for cloning the repository): [Download Link](https://git-scm.com/downloads)
+- **Python** (version 3.8 or higher): <a href="https://www.python.org/downloads/" target="_blank">Download Link</a>
+- **Node.js** (includes npm): <a href="https://nodejs.org/" target="_blank">Download Link</a>
+- **Git** (for cloning the repository): <a href="https://git-scm.com/downloads" target="_blank">Download Link</a>
 
 ---
 

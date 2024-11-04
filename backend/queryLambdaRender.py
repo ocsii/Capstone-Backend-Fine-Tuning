@@ -35,6 +35,11 @@ app.add_middleware(
 class Query(BaseModel):
     question: str
 
+@app.get("/health")
+async def health_check():
+    return {"status": "up"}
+
+
 @app.post("/query")
 async def query_faiss(query: Query):
     response = generate_response_with_gpt(query.question)

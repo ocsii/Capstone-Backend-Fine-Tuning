@@ -1,0 +1,262 @@
+.main {
+    flex: 1;
+    min-height: 100vh;
+    padding-bottom: 15vh;
+    position: relative;
+    background-color: var(--sunway-white);
+    color: black;
+
+}
+
+.main .nav img {
+    width: 40px;
+}
+
+.main .nav {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    font-size: 22px;
+    padding: 20px;
+    color: var(--sunway-blue);
+    font-weight: 700;
+}
+
+.main-container {
+    max-width: 900px;
+    margin: auto;
+}
+
+.main .greet {
+    margin: 50px 0px;
+    font-size: 56px;
+    color: var(--sunway-dark-blue);
+    font-weight: 700;
+    padding: 20px;
+    opacity: 0.8;
+}
+
+.main .greet span {
+    background: -webkit-linear-gradient(10deg, var(--sunway-orange), var(--sunway-dark-blue));
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+
+.main .cards {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(180px, 1fr));
+    gap: 15px;
+    padding: 20px;
+}
+
+.main .card {
+    height: 200px;
+    padding: 15px;
+    background-color: var(--sunway-blue); /* Change this to orange maybe */
+    border-radius: 12px; 
+    position: relative;
+    cursor: pointer;
+    transition: transform 0.25;
+}
+
+.titleHeader {
+    cursor: pointer;
+}
+
+.main .card p {
+    color: white;
+    font-size: 18px;
+}
+
+.main .card:hover {
+    background-color: var(--sunway-orange);
+    transform: scale(1.02); 
+}
+
+.main .card img {
+    width: 35px;
+    padding: 5px;
+    position: absolute;
+    background-color: white;
+    border-radius: 15px;
+    bottom: 10px;
+    right: 10px;
+}
+
+.main-bottom {
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    max-width: 900px;
+    padding: 0px 20px;
+    margin: auto;
+}
+
+.search-box {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    background-color: #d3daed; /* ccd5e0 - blueish gray light*/
+    padding: 10px 20px; 
+    border-radius: 15px;
+}
+
+.search-box img {
+    width: 24px;
+    cursor: pointer;
+}
+
+.search-box input {
+    flex: 1;
+    background: transparent;
+    border: none;
+    outline: none;
+    padding: 8px;
+    font-size: 18px;
+}
+
+.search-box input::placeholder {
+    color: #aaa;
+    font-style: italic;
+    opacity: 0.6; 
+    font-family: Arial, Helvetica, sans-serif; /* Font not working, change */
+}
+
+.main .bottom-info {
+    font-size: 12px;
+    margin: 15px auto 7px;
+    text-align: center;
+    font-weight: 300;
+}
+
+.main .bottom-info-name {
+    position: absolute;
+    font-size: 9px;
+    right: 3px;
+    bottom: 3px;
+}
+
+.result {
+    padding: 0px 5%;
+    max-height: 70vh;
+    overflow-y: scroll;
+}
+
+.result .result-title img {
+    width: 26px;
+    margin: 10px;
+}
+
+.result::-webkit-scrollbar{
+    display: none;
+
+}
+
+.result-title {
+    margin: 40px 0px;
+    display: flex;
+    align-items: center;
+    gap: 20px;
+    background-color: var(--sunway-blue);
+    color: white;
+    font-weight: 1000;
+
+    position: relative;
+}
+
+
+/* .disclaimer {
+    position: absolute;
+    top: 100px;
+    font-size: 12px; 
+    text-align: center;
+    
+} */
+
+.result img {
+    width: 40px;
+    border-radius: 50%;
+}
+
+.result-data {
+    display: flex;
+    align-items: start;
+    gap: 20px;
+}
+
+.loader {
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+
+.loader hr {
+    border-radius: 4px;
+    border: none;
+    background-color: blue;
+    background: linear-gradient(to right, var(--sunway-orange), var(--sunway-white), var(--sunway-orange));
+    background-size: 800px 50px;
+    height: 20px;
+    animation: loader 3s infinite linear
+}
+
+.result-data p {
+    font-size: 17px;
+    font-weight: 300px;
+    line-height: 1.8;
+}
+
+.sendButton {
+    opacity: 0; /* Initially hidden */
+    transform: translateX(50px); /* Start from right */
+    animation: fadeIn 0.5s forwards; /* Fade in */
+}
+
+@keyframes fadeIn {
+    0% {
+        opacity: 0;
+        transform: translateX(30px);
+    }
+    100% {
+        opacity: 1;
+        transform: translateX(0);
+    }
+}
+
+
+
+
+@keyframes loader {
+    0% {
+        background-position: -800px 0px;
+    }
+    100%{
+        background-position: 800px 0px;
+    }
+}
+
+@media (max-width: 600px) {
+    .main-bottom input {
+        flex: none;
+        width: 150px;
+    }
+
+    .main-bottom img {
+        width: 20px;
+    }
+
+    .search-box {
+        padding: 5px 10px;
+    }
+
+    .search-box input::placeholder {
+        font-size: 15px;
+    }
+
+    .card {
+        display: none;
+    }
+    
+}
+

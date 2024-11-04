@@ -1,4 +1,4 @@
-# Capstone - Fine Tuning Model on School Handbook Data - Fullstack Web Applicaation
+# Capstone - Fine Tuning Model on School Handbook Data: Fullstack Web Applicaation
 
 This project contains a **Backend API**, **Data Preparation scripts**, and a **Frontend React application**. Follow the instructions below to set up each component.
 
@@ -7,10 +7,8 @@ This project contains a **Backend API**, **Data Preparation scripts**, and a **F
 1. [Project Setup](#project-setup)
 2. [Requirements](#requirements)
 3. [Backend](#backend)
-4. [Data Preparation](#data-preparation)
-5. [Frontend](#frontend)
-6. [Troubleshooting](#troubleshooting)
-7. [Resources](#resources)
+4. [Frontend](#frontend)
+5. [Data Preparation](#data-preparation)
 
 ---
 
@@ -21,10 +19,13 @@ This project contains a **Backend API**, **Data Preparation scripts**, and a **F
 To begin, clone this repository using Visual Studio Code (VS Code) or your preferred IDE.
 
 1. **Download and Install VS Code**: [Download Link](https://code.visualstudio.com/download)
+
 2. **Clone the Repository**:
+
    - Open VS Code, go to **View** > **Terminal**.
    - In the terminal, navigate to the directory where you want to clone the project.
    - Run the following command:
+
      ```bash
      git clone git@github.com:ocsii/Capstone-Backend-Fine-Tuning.git
      ```
@@ -36,6 +37,7 @@ To begin, clone this repository using Visual Studio Code (VS Code) or your prefe
 Make sure you have the following installed before proceeding:
 
 - **Python** (version 3.8 or higher): [Download Link](https://www.python.org/downloads/)
+  - Make sure pip is installed (and included in PATH variables)
 - **Node.js** (includes npm): [Download Link](https://nodejs.org/)
 - **Git** (for cloning the repository): [Download Link](https://git-scm.com/downloads)
 
@@ -46,6 +48,8 @@ Make sure you have the following installed before proceeding:
 This directory contains the backend API logic. Follow the steps below to set it up:
 
 1. **Navigate to the Backend Directory**:
+
+   - To run backend simultaneously, create a new powershell terminal
 
    ```bash
    cd backend

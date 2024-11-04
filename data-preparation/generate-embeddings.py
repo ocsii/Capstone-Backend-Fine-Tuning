@@ -40,8 +40,13 @@ def process_all_files(input_dir, output_dir):
             generate_embeddings(input_file_path, index_file_path)
 
 if __name__ == "__main__":
-    input_dir = 'C:/Users/chris/Desktop/CP2/Fine Tuning BERT/backend/data-preparation/datasets/text-manually-updated'
-    output_dir = 'C:/Users/chris/Desktop/CP2/Fine Tuning BERT/backend/data-preparation/datasets/text-faiss'
+
+    base_path = os.path.dirname(os.path.abspath(__file__))
+    input_dir = os.path.join(base_path, 'datasets/text-manually-updated')
+    output_dir = os.path.join(base_path, 'datasets/text-faiss')
+
+    # input_dir = 'C:/Users/chris/Desktop/CP2/Fine Tuning BERT/backend/data-preparation/datasets/text-manually-updated'
+    # output_dir = 'C:/Users/chris/Desktop/CP2/Fine Tuning BERT/backend/data-preparation/datasets/text-faiss'
 
     # Make sure the output directory exists
     os.makedirs(output_dir, exist_ok=True)

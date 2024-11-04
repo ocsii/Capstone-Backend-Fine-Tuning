@@ -42,8 +42,14 @@ def process_files(input_dir, output_dir):
                     f.write('\n\n\n\n')
 
 if __name__ == "__main__":
-    input_dir = 'data-preparation/datasets/text-extracted'
-    output_dir = 'data-preparation/datasets/text-sectioned'
+
+    
+    base_path = os.path.dirname(os.path.abspath(__file__))
+    input_dir = os.path.join(base_path, 'data-preparation/datasets/text-extracted')
+    output_dir = os.path.join(base_path, 'data-preparation/datasets/text-sectioned')
+
+    # input_dir = 'data-preparation/datasets/text-extracted'
+    # output_dir = 'data-preparation/datasets/text-sectioned'
 
     # Make sure dir exists
     os.makedirs(output_dir, exist_ok=True)

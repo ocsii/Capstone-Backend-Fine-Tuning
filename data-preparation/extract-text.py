@@ -73,9 +73,14 @@ def extract_text (input_dir, output_dir):
 
 if __name__ == "__main__":
 
+
+    base_path = os.path.dirname(os.path.abspath(__file__))
+    input_dir = os.path.join(base_path, 'datasets/text-raw-datasets')
+    output_dir = os.path.join(base_path, 'datasets/text-extracted')
+    
     # Directory paths
-    input_dir = 'data-preparation/datasets/text-raw-datasets'
-    output_dir = 'data-preparation/datasets/text-extracted'
+    # input_dir = 'datasets/text-raw-datasets'
+    # output_dir = 'datasets/text-extracted'
 
     # Make sure dir exists
     os.makedirs(output_dir, exist_ok = True)

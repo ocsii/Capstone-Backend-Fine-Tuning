@@ -8,7 +8,7 @@ from fastapi import FastAPI
 from fastapi.middleware.cors import CORSMiddleware
 from pydantic import BaseModel
 
-""" This is the backedend used to host on """
+""" This is the backedend used to host on Render (free tier) """
 
 
 base_path = os.path.dirname(os.path.abspath(__file__))

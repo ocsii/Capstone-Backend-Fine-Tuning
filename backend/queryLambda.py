@@ -3,15 +3,23 @@ import faiss
 import numpy as np
 import requests
 
+
 from fastapi import FastAPI
 from fastapi.middleware.cors import CORSMiddleware
 from pydantic import BaseModel
+
+import logging
+
+# Configure logging
+logging.basicConfig(level=logging.INFO)  # You can change the level to DEBUG for more detailed output
+logger = logging.getLogger(__name__)
+
 
 
 # Step 1: Load models and FAISS index
 sentence_model = SentenceTransformer('all-MiniLM-L6-v2')
 cross_encoder = CrossEncoder('cross-encoder/ms-marco-MiniLM-L-6-v2')
-index = faiss.read_index("C:/Users/chris/Desktop/CP2/Fine Tuning BERT/backend/data-preparation/datasets/text-faiss/combined.faiss")
+index = faiss.read_index("C:/Users/chris/Desktop/CP2/Fine Tuning BERT/backend/datasets/combined.faiss")
 LAMBDA_API_URL = "https://wvleewwlcmkv6yjxhzyl27fxjq0qzmws.lambda-url.ap-southeast-1.on.aws/"
 
 app = FastAPI()
@@ -31,8 +39,10 @@ class Query(BaseModel):
 @app.post("/query")
 async def query_faiss(query: Query):
     response = generate_response_with_gpt(query.question)
+    logger.info(response)
+    print(response)
     return {"Answer: ": response}
-
+    
 
 def query_faiss_index(query, top_k=10):
     """Search the FAISS index for the top-k closest matches."""
@@ -50,6 +60,8 @@ def re_rank_results(query, retrieved_sections):
     
     return ranked_sections
 
+
+# Change to model gpt-4o before submit
 def call_openai_api(query, top_sections):
     payload = {
         "query": query,
@@ -70,7 +82,7 @@ def generate_response_with_gpt(query):
     # Query FAISS and re-rank sections
     distances, indices = query_faiss_index(query)
     
-    with open('C:/Users/chris/Desktop/CP2/Fine Tuning BERT/backend/data-preparation/datasets/text-manually-updated/combined.txt', 'r', encoding='utf-8') as f:
+    with open('C:/Users/chris/Desktop/CP2/Fine Tuning BERT/backend/datasets/combined.txt', 'r', encoding='utf-8') as f:
         sections = [line.strip() for line in f if line.strip()]
     
     retrieved_sections = [sections[idx] for idx in indices[0]]

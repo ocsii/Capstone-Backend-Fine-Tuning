@@ -31,3 +31,5 @@ venv\Scripts\activate (Mac / Linux: source venv/bin/activate)
 pip install -r requirements.txt
 
 ## Usage
+
+uvicorn queryLambda:app --host 127.0.0.1 --port 8000 --reload

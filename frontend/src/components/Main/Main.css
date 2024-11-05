@@ -6,6 +6,7 @@
     background-color: var(--sunway-white);
     color: black;
 
+    animation: slideFadeIn 1.5s
 }
 
 .main .nav img {
@@ -160,6 +161,7 @@
     background-color: var(--sunway-blue);
     color: white;
     font-weight: 1000;
+    border-radius: 4px;
 
     position: relative;
 }

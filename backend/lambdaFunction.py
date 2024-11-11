@@ -12,7 +12,6 @@ def lambda_handler(event, context):
 
     logger.info(f"Received event: {event}")
 
-
     # Parse the JSON body
     body = json.loads(event['body'])
 
@@ -20,15 +19,13 @@ def lambda_handler(event, context):
     query = body.get("query")
     retrieved_sections = body.get("retrieved_sections", [])
 
-   
-
     # Prepare the top three sections
     section1 = retrieved_sections[0] if len(retrieved_sections) > 0 else ""
     section2 = retrieved_sections[1] if len(retrieved_sections) > 1 else ""
     section3 = retrieved_sections[2] if len(retrieved_sections) > 2 else ""
 
     # Set up the OpenAI client
-    client = OpenAI(api_key=os.environ.get("OPENAI_API_KEY"))
+    client = OpenAI(api_key=os.environ.get("OPENAI_API_KEY")) # This is stored in Lambda function environment variables
 
     # Call OpenAI GPT API
     chat_completion = client.chat.completions.create(
@@ -54,13 +51,7 @@ def lambda_handler(event, context):
     model="gpt-4o",
 )
 
-
-
-
-
-    
-
-    # Extract the answer from the response
+    # Extract content only
     answer_content = chat_completion.choices[0].message.content
 
     return {

@@ -186,6 +186,10 @@
     gap: 20px;
 }
 
+.result-data p{
+    text-align: justify;
+}
+
 .loader {
     width: 100%;
     display: flex;
@@ -259,3 +263,23 @@
     
 }
 
+
+/* Styling for Response */
+ul {
+    padding-left: 20px;
+  }
+  
+li {
+    margin-bottom: 10px;
+}
+  
+b {
+    font-weight: bold;
+}
+  
+br {
+    margin-bottom: 10px;
+}
+
+
+  

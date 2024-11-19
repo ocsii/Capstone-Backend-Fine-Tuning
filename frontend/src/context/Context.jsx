@@ -38,7 +38,7 @@ const ContextProvider = (props) => {
       }
 
       const response = await res.json();
-      let responseString = response["Answer: "];
+      let responseString = response["answer"];
       return processResponse(responseString);
     } catch (error) {
       console.error(error);
@@ -88,11 +88,11 @@ const ContextProvider = (props) => {
       }
     });
 
-    newResponse = newResponse
-      .split("*")
-      .join("</br>")
-      .split("#")
-      .join("</br></br>");
+    // newResponse = newResponse
+    //   .split("*")
+    //   .join("</br>")
+    //   .split("#")
+    //   .join("</br></br>");
     return newResponse;
   };
 

@@ -46,7 +46,7 @@ async def health_check():
 @app.post("/query")
 async def query_faiss(query: Query):
     response = generate_response_with_gpt(query.question)
-    return {"Answer: ": response}
+    return {"answer": response}
     
 
 def query_faiss_index(query, top_k=10):
@@ -112,7 +112,7 @@ def generate_response_with_gpt(query):
     # Send query and top 3 sections to GPT API
     gpt_response = call_openai_api(query, top_sections)
 
-    return f"Answer: {gpt_response}" 
+    return gpt_response 
 
 # Main function (not used unless run manually)
 if __name__ == "__main__":

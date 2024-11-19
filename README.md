@@ -84,6 +84,13 @@ This directory contains the backend API logic. Follow the steps below to set it 
      ```bash
      uvicorn main:app --host 127.0.0.1 --port 8000 --reload
      ```
+
+      or
+
+     ```bash
+     ./run.ps1
+     ```
+     
    - Ensure you are in the /backend directory before running the command
 
 ---

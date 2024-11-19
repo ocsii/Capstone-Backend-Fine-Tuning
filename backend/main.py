@@ -10,7 +10,6 @@ from pydantic import BaseModel
 
 """ This is the backend used to host on Render (free tier) """
 
-
 # Paths
 base_path = os.path.dirname(os.path.abspath(__file__))
 faiss_path = os.path.join(base_path, 'datasets/combined.faiss')
@@ -20,7 +19,7 @@ LAMBDA_API_URL = "https://wvleewwlcmkv6yjxhzyl27fxjq0qzmws.lambda-url.ap-southea
 
 # Load modeel info faiss index
 sentence_model = SentenceTransformer('all-MiniLM-L6-v2')
-cross_encoder = CrossEncoder('cross-encoder/ms-marco-MiniLM-L-6-v2')
+cross_encoder = CrossEncoder('cross-encoder/ms-marco-MiniLM-L-6-v2') 
 index = faiss.read_index(faiss_path)
 
 app = FastAPI()

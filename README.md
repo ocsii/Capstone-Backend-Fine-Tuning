@@ -4,9 +4,7 @@
 
 This project is a **Student Query Answering System** designed to provide accurate and concise responses to common student questions by leveraging a semi-fine-tuned language model. The goal is to simplify information retrieval from the school’s student handbook and other resources. It works by matching a student’s query to relevant sections in the handbook and generating an answer using GPT.
 
-
 ![image](https://github.com/user-attachments/assets/452b51f5-47da-4e86-bd99-a54632e6ca3b)
-
 
 ### Technical Stack
 
@@ -84,7 +82,7 @@ This directory contains the backend API logic. Follow the steps below to set it 
 3. **Run the Backend Server**:
    - Start the server by running:
      ```bash
-     uvicorn queryLambdaRender:app --host 127.0.0.1 --port 8000 --reload
+     uvicorn main:app --host 127.0.0.1 --port 8000 --reload
      ```
    - Ensure you are in the /backend directory before running the command
 

@@ -88,11 +88,6 @@ const ContextProvider = (props) => {
       }
     });
 
-    // newResponse = newResponse
-    //   .split("*")
-    //   .join("</br>")
-    //   .split("#")
-    //   .join("</br></br>");
     return newResponse;
   };
 

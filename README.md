@@ -1,4 +1,4 @@
-# Capstone - Fine Tuning Model on School Handbook Data: Fullstack Web Applicaation
+# Capstone - Fine Tuning Model on School Handbook Data using Retrieval Augmented Generation (RAG): Fullstack Web Applicaation
 
 ## Project Overview
 

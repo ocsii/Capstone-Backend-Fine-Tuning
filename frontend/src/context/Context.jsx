@@ -38,7 +38,7 @@ const ContextProvider = (props) => {
       }
 
       const response = await res.json();
-      let responseString = response["answer"];
+      let responseString = response["Answer: "];
       return processResponse(responseString);
     } catch (error) {
       console.error(error);

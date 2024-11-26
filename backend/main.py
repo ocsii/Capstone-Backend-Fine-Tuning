@@ -106,7 +106,7 @@ def generate_response_with_gpt(query):
     ranked_sections = re_rank_results(query, retrieved_sections)
 
     # Take only top 3 sections
-    top_sections = [section for _, section in ranked_sections[:3]]
+    top_sections = [section for _, section in ranked_sections[:5]]
 
     # Send query and top 3 sections to GPT API
     gpt_response = call_openai_api(query, top_sections)

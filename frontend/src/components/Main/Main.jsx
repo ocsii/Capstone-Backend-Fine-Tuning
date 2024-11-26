@@ -131,7 +131,7 @@ const Main = () => {
           </p>
         </div>
       </div>
-      <p className="bottom-info-name"> Christian Cham (2024) </p>
+      <p className="bottom-info-name"> © Christian Cham 2024 </p>
     </div>
   );
 };

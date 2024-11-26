@@ -1,4 +1,4 @@
-import React, { useContext } from "react";
+import React, { useContext, useState } from "react";
 import "./Main.css";
 import { assets } from "../../assets/assets";
 import { Context } from "../../context/Context";
@@ -13,6 +13,11 @@ const Main = () => {
     setInput,
     input,
     newChat,
+    startListening,
+    isListening,
+    stopListening,
+    handleKeyDown,
+    handleCardClick,
   } = useContext(Context);
 
   // Array of question objects with associated icons
@@ -31,10 +36,6 @@ const Main = () => {
       icon: assets.icon_clock,
     },
   ];
-
-  const handleCardClick = (question) => {
-    setInput(question);
-  };
 
   return (
     <div className="main">
@@ -95,12 +96,24 @@ const Main = () => {
 
         <div className="main-bottom">
           <div className="search-box">
+            <img
+              src={
+                isListening
+                  ? assets.icon_microphone_on_orange
+                  : assets.icon_microphone_on_black
+              }
+              onClick={isListening ? stopListening : startListening}
+              alt="Toggle microphone"
+              aria-label="Toggle microphone"
+            />
             <input
               onChange={(e) => setInput(e.target.value)}
               value={input}
               type="text"
               placeholder="Enter your question..."
+              onKeyDown={handleKeyDown}
             />
+
             <div>
               {input ? (
                 <img

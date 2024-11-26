@@ -12,6 +12,9 @@ import icon_prerequisite from './rotate-right.png'
 import icon_running_black from './running_black.png'
 import icon_information from "./info.png"
 import icon_right_arrow from "./right-arrow_orange.png"
+import icon_microphone_on_orange from "./circle-microphone_orange.png"
+import icon_microphone_on_black from "./circle-microphone_black.png"
+
 
 export const assets = {
   icon_plus_orange,
@@ -28,4 +31,6 @@ export const assets = {
   icon_running_black,
   icon_information,
   icon_right_arrow,
+  icon_microphone_on_orange,
+  icon_microphone_on_black,
 }

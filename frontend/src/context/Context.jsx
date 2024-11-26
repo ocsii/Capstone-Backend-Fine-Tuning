@@ -12,6 +12,9 @@ const ContextProvider = (props) => {
   const [loading, setLoading] = useState(false);
   const [resultData, setResultData] = useState("");
 
+  // Track microphone state
+  const [isListening, setIsListening] = useState(false);
+
   const delayPara = (index, nextWord) => {
     setTimeout(() => {
       setResultData((prev) => prev + nextWord);
@@ -76,6 +79,7 @@ const ContextProvider = (props) => {
     setInput(""); // Clear input after sending
   };
 
+  // Process response / add bold to words
   const processResponse = (responseString) => {
     let responseArray = responseString.split("**");
     let newResponse = "";
@@ -91,6 +95,63 @@ const ContextProvider = (props) => {
     return newResponse;
   };
 
+  // Initialise speech recognition
+  const recognition = new (window.SpeechRecognition ||
+    window.webkitSpeechRecognition)();
+
+  recognition.continuous = false;
+  recognition.interimResults = false;
+  recognition.lang = "en-US";
+
+  const startListening = () => {
+    if (!isListening) {
+      setIsListening(true);
+      recognition.start();
+    }
+  };
+
+  const stopListening = () => {
+    if (isListening) {
+      setIsListening(false);
+      recognition.stop();
+    }
+  };
+
+  // Handle speech recognition results
+  recognition.onresult = (event) => {
+    const speechToText = event.results[0][0].transcript.trim();
+    const capitalizedText =
+      speechToText.charAt(0).toUpperCase() + speechToText.slice(1);
+    setInput(capitalizedText);
+    setIsListening(false);
+    stopListening();
+  };
+
+  // Handle speech errors
+  recognition.onerror = (event) => {
+    console.error("Speech Regonition Error: ", event.error);
+    stopListening();
+  };
+
+  // Make sure it stops when I click button
+  recognition.onend = () => {
+    if (isListening) {
+      recognition.start();
+    }
+  };
+
+  // To allow "Enter" on text box
+  const handleKeyDown = (e) => {
+    if (e.key === "Enter" && input.trim() !== "") {
+      onSent();
+    }
+  };
+
+  // Input card fields into input from cards
+  const handleCardClick = (question) => {
+    setInput(question);
+  };
+
   const contextValue = {
     previousPrompts,
     setPreviousPrompts,
@@ -103,6 +164,11 @@ const ContextProvider = (props) => {
     input,
     setInput,
     newChat,
+    startListening,
+    stopListening,
+    isListening,
+    handleKeyDown,
+    handleCardClick,
   };
 
   return (

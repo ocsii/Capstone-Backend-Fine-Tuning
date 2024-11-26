@@ -114,13 +114,14 @@
     outline: none;
     padding: 8px;
     font-size: 18px;
+    margin-left: 10px;
 }
 
 .search-box input::placeholder {
     color: #aaa;
     font-style: italic;
     opacity: 0.6; 
-    font-family: Arial, Helvetica, sans-serif; /* Font not working, change */
+    /* font-family: Arial, Helvetica, sans-serif; Font not working, change */
 }
 
 .main .bottom-info {

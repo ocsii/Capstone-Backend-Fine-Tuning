@@ -1,10 +1,11 @@
-# Capstone - Fine Tuning Model on School Handbook Data: Fullstack Web Applicaation
+# Capstone - Fine Tuning Model on School Handbook Data using Retrieval Augmented Generation (RAG): Fullstack Web Applicaation
 
 ## Project Overview
 
 This project is a **Student Query Answering System** designed to provide accurate and concise responses to common student questions by leveraging a semi-fine-tuned language model. The goal is to simplify information retrieval from the school’s student handbook and other resources. It works by matching a student’s query to relevant sections in the handbook and generating an answer using AI models.
 
-![image](https://github.com/user-attachments/assets/452b51f5-47da-4e86-bd99-a54632e6ca3b)
+![image](https://github.com/user-attachments/assets/a3390393-c9d2-46e3-b45e-855672190a41)
+
 
 ### Technical Stack
 

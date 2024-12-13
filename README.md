@@ -1,4 +1,4 @@
-# Capstone - Fine Tuning Model on School Handbook Data using Retrieval Augmented Generation (RAG): Fullstack Web Applicaation
+# Capstone - Fine Tuning Model on School Handbook Data using Retrieval Augmented Generation (RAG): Fullstack Web Application
 
 ## Project Overview
 
@@ -6,22 +6,22 @@ This project is a **Student Query Answering System** designed to provide accurat
 
 ![image](https://github.com/user-attachments/assets/a3390393-c9d2-46e3-b45e-855672190a41)
 
-
 ### Technical Stack
 
 - **Backend**: FastAPI, FAISS, SentenceTransformers, and CrossEncoder models.
 - **Frontend**: React, connecting to the backend via API calls.
 - **Serverless GPT Integration**: AWS Lambda function handling OpenAI GPT API requests.
 
-This project contains a **Backend API**, **Data Preparation scripts**, and a **Frontend React application**. Follow the instructions below to set up each component.
+This project contains a **Backend API**, **Data Preparation scripts**, and a **Frontend React application**. Follow the instructions below to set up and run the entire project.
 
 ## Table of Contents
 
 1. [Project Setup](#project-setup)
 2. [Requirements](#requirements)
-3. [Backend](#backend)
-4. [Frontend](#frontend)
-5. [Data Preparation](#data-preparation)
+3. [Running the Project](#running-the-project)
+   - [Step 1: Setting up the Backend](#step-1-setting-up-the-backend)
+   - [Step 2: Setting up the Frontend](#step-2-setting-up-the-frontend)
+4. [Data Preparation](#data-preparation)
 
 ---
 
@@ -55,25 +55,25 @@ Make sure you have the following installed before proceeding:
 
 ---
 
-## Backend
+## Running the Project
 
-This directory contains the backend API logic. Follow the steps below to set it up:
+### Step 1: Setting up the Backend
 
 1. **Navigate to the Backend Directory**:
 
-   - To run backend simultaneously, create a new powershell terminal
+   - Open a terminal in VS Code (or your preferred IDE).
+   - Run the following command to navigate to the backend folder:
+     ```bash
+     cd backend
+     ```
 
-   ```bash
-   cd backend
-   ```
+2. **Set Up Virtual Environment**:
 
-2. **Setup Virtual Environment**:
-
-   - Run the following command to initialize the virtual environment and install dependencies:
+   - Run the setup script to initialize the virtual environment and install dependencies:
      ```powershell
      ./setup.ps1
      ```
-   - If the `setup.ps1` script does not run, you can set up the environment manually with these commands:
+   - If the `setup.ps1` script does not run, you can set up the environment manually:
      ```powershell
      python -m venv venv
      .\venv\Scripts\Activate
@@ -81,68 +81,81 @@ This directory contains the backend API logic. Follow the steps below to set it 
      ```
 
 3. **Run the Backend Server**:
+
    - Start the server by running:
      ```bash
      uvicorn main:app --host 127.0.0.1 --port 8000 --reload
      ```
-
-      or
-
+   - Alternatively, you can use the provided script:
      ```bash
      ./run.ps1
      ```
-     
-   - Ensure you are in the /backend directory before running the command
+
+4. **Keep the Backend Running**:
+
+   - Leave this terminal open and running the backend server. You will need to open a new terminal for the frontend setup.
 
 ---
 
-## Frontend
+### Step 2: Setting up the Frontend
 
-The frontend is a React application that serves as the user interface.
+1. **Open a New Terminal**:
 
-1. **Navigate to the Frontend Directory**:
+   - In VS Code, open a new terminal (you should leave the backend terminal running).
 
-   ```bash
-   cd frontend
-   ```
+2. **Navigate to the Frontend Directory**:
 
-2. **Install Dependencies**:
+   - In the new terminal, navigate to the frontend folder:
+     ```bash
+     cd frontend
+     ```
+
+3. **Install Dependencies**:
 
    - Run the following command to install the necessary React dependencies:
      ```bash
      npm install
      ```
 
-3. **Run the Frontend Application**:
-   - Start the frontend locally with:
+4. **Run the Frontend Application**:
+
+   - Start the frontend locally by running:
      ```bash
      npm run dev
      ```
-   - Follow the link in the terminal to open locally hosted frontend.
+   - Follow the link displayed in the terminal to open the locally hosted frontend in your browser.
+
+5. **Ensure Both Backend and Frontend Are Running**:
+
+   - At this point, you should have two terminals open:
+
+     - One running the backend server.
+     - One running the frontend React application.
+
+   - Both need to run simultaneously for the application to work.
 
 ---
 
 ## Data Preparation
 
-Boring section - It contains scripts to preprocess the data for the semantic search.
+This section contains scripts to preprocess the data for the semantic search.
 
 1. **Navigate to the Data Preparation Directory**:
 
-   ```bash
-   cd data-preparation
-   ```
+   - Open a new terminal and navigate to the data-preparation folder:
+     ```bash
+     cd data-preparation
+     ```
 
-2. **Setup Virtual Environment**:
+2. **Set Up Virtual Environment**:
 
    - Run the following command to initialize the virtual environment and install dependencies:
      ```powershell
      ./setup.ps1
      ```
-   - If the `setup.ps1` script does not run, you can set up the environment manually with these commands:
+   - If the `setup.ps1` script does not run, set up the environment manually:
      ```powershell
      python -m venv venv
      .\venv\Scripts\Activate
      pip install -r requirements.txt
      ```
-
----

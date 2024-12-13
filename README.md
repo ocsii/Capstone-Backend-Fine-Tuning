@@ -4,6 +4,8 @@
 
 This project is a **Student Query Answering System** designed to provide accurate and concise responses to common student questions by leveraging a semi-fine-tuned language model. The goal is to simplify information retrieval from the school’s student handbook and other resources. It works by matching a student’s query to relevant sections in the handbook and generating an answer using AI models.
 
+The project is also hosted at: https://www.christiancham.com/
+
 ![image](https://github.com/user-attachments/assets/a3390393-c9d2-46e3-b45e-855672190a41)
 
 ### Technical Stack
